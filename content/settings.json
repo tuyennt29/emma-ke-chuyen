@@ -1,24 +1,9 @@
 {
-  "siteName": "Emma kể chuyện",
-  "tagline": "Truyện ngắn kể theo từng chương",
-  "siteUrl": "https://emma-ke-chuyen.netlify.app",
-  "description": "Emma kể chuyện – đọc truyện ngắn hay, cập nhật theo từng chương: bí ẩn, huyền ảo, tình cảm, đời thường. Đọc miễn phí trên điện thoại và máy tính.",
-  "defaultAuthor": "Emma",
-  "contactEmail": "lienhe@emmakechuyen.vn",
   "ogImage": "",
-  "googleSiteVerification": "",
-  "gaMeasurementId": "",
-  "ads": {
-    "adsenseClient": "",
-    "slotTop": "",
-    "slotInChapter": "",
-    "slotEndChapter": "",
-    "slotSidebar": "",
-    "slotGate": ""
-  },
+  "siteUrl": "https://emma-ke-chuyen.netlify.app",
   "gate": {
     "enabled": true,
-    "startFrom": 3,
+    "startFrom": 2,
     "every": 2,
     "unlockHours": 24,
     "videoSeconds": 15,
@@ -26,12 +11,47 @@
     "title": "Mở khóa để đọc tiếp",
     "message": "Emma kể chuyện miễn phí nhờ nhà tài trợ. Bạn chọn một cách bên dưới để mở khóa chương này nhé."
   },
-  "videoAds": [
-    { "title": "Video nhà tài trợ", "youtubeId": "", "videoUrl": "", "link": "" }
-  ],
+  "defaultAuthor": "Emma",
   "affiliate": [
-    { "title": "Sổ tay & bút cho người mê viết", "desc": "Thay bằng link Shopee Affiliate của bạn", "cta": "Xem trên Shopee", "url": "https://shopee.vn" },
-    { "title": "Tủ sách truyện ngắn Việt Nam", "desc": "Thay bằng link Tiki/Fahasa của bạn", "cta": "Xem sách", "url": "https://tiki.vn" },
-    { "title": "Đèn đọc sách kẹp bàn", "desc": "Sản phẩm hợp với độc giả đọc đêm", "cta": "Xem giá", "url": "https://www.lazada.vn" }
-  ]
+    {
+      "title": "Sổ tay & bút cho người mê viết",
+      "desc": "Thay bằng link Shopee Affiliate của bạn",
+      "cta": "Xem trên Shopee",
+      "url": "https://shopee.vn"
+    },
+    {
+      "title": "Tủ sách truyện ngắn Việt Nam",
+      "desc": "Thay bằng link Tiki/Fahasa của bạn",
+      "cta": "Xem sách",
+      "url": "https://tiki.vn"
+    },
+    {
+      "title": "Đèn đọc sách kẹp bàn",
+      "desc": "Sản phẩm hợp với độc giả đọc đêm",
+      "cta": "Xem giá",
+      "url": "https://www.lazada.vn"
+    }
+  ],
+  "tagline": "Nghe Emma kể chuyện",
+  "ads": {
+    "adsenseClient": "<script async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5465874059342727\"      crossorigin=\"anonymous\"></script>",
+    "slotTop": "<script async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5465874059342727\"      crossorigin=\"anonymous\"></script>",
+    "slotInChapter": "<script async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5465874059342727\"      crossorigin=\"anonymous\"></script>",
+    "slotEndChapter": "<script async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5465874059342727\"      crossorigin=\"anonymous\"></script>",
+    "slotSidebar": "<script async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5465874059342727\"      crossorigin=\"anonymous\"></script>",
+    "slotGate": "<script async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5465874059342727\"      crossorigin=\"anonymous\"></script>"
+  },
+  "siteName": "Emma kể chuyện",
+  "videoAds": [
+    {
+      "title": "Video nhà tài trợ",
+      "youtubeId": "",
+      "videoUrl": "",
+      "link": ""
+    }
+  ],
+  "googleSiteVerification": "",
+  "contactEmail": "lienhe@emmakechuyen.vn",
+  "description": "Emma kể chuyện – đọc truyện ngắn hay, cập nhật theo từng chương: bí ẩn, huyền ảo, tình cảm, đời thường. Đọc miễn phí trên điện thoại và máy tính.",
+  "gaMeasurementId": ""
 }
