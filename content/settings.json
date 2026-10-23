@@ -34,12 +34,12 @@
   ],
   "tagline": "Nghe Emma kể chuyện",
   "ads": {
-    "adsenseClient": "<script async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5465874059342727\"      crossorigin=\"anonymous\"></script>",
-    "slotTop": "<script async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5465874059342727\"      crossorigin=\"anonymous\"></script>",
-    "slotInChapter": "<script async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5465874059342727\"      crossorigin=\"anonymous\"></script>",
-    "slotEndChapter": "<script async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5465874059342727\"      crossorigin=\"anonymous\"></script>",
-    "slotSidebar": "<script async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5465874059342727\"      crossorigin=\"anonymous\"></script>",
-    "slotGate": "<script async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5465874059342727\"      crossorigin=\"anonymous\"></script>"
+    "adsenseClient": "<meta name=\"google-adsense-account\" content=\"ca-pub-5465874059342727\">",
+    "slotTop": "<meta name=\"google-adsense-account\" content=\"ca-pub-5465874059342727\">",
+    "slotInChapter": "<meta name=\"google-adsense-account\" content=\"ca-pub-5465874059342727\">",
+    "slotEndChapter": "<meta name=\"google-adsense-account\" content=\"ca-pub-5465874059342727\">",
+    "slotSidebar": "<meta name=\"google-adsense-account\" content=\"ca-pub-5465874059342727\">",
+    "slotGate": "<meta name=\"google-adsense-account\" content=\"ca-pub-5465874059342727\">"
   },
   "siteName": "Emma kể chuyện",
   "videoAds": [
