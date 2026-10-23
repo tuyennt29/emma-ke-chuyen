@@ -5,7 +5,7 @@
 # ============================================================
 backend:
   name: github
-  repo: TEN-TAI-KHOAN-GITHUB/emma-ke-chuyen
+  repo: tuyennt29/emma-ke-chuyen
   branch: main
   base_url: https://api.netlify.com
   auth_endpoint: auth
