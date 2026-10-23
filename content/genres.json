@@ -1,0 +1,8 @@
+{
+  "genres": [
+    { "name": "Bí ẩn", "slug": "bi-an", "description": "Truyện ngắn bí ẩn, nhiều nút thắt, đọc đến chương cuối mới vỡ lẽ." },
+    { "name": "Huyền ảo", "slug": "huyen-ao", "description": "Những câu chuyện huyền ảo giữa đời thực: hiệu sách kỳ lạ, chuyến tàu không ga đến." },
+    { "name": "Tình cảm", "slug": "tinh-cam", "description": "Truyện ngắn tình cảm nhẹ nhàng, ấm áp, nhiều cảm xúc." },
+    { "name": "Đời thường", "slug": "doi-thuong", "description": "Lát cắt đời thường, hài hước và tử tế." }
+  ]
+}

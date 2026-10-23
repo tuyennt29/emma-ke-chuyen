@@ -1,0 +1,172 @@
+# ============================================================
+#  TRANG QUẢN TRỊ – Emma kể chuyện
+#  BƯỚC DUY NHẤT CẦN SỬA: dòng "repo" bên dưới
+#  thành  <tên-tài-khoản-GitHub>/<tên-repo>  của cậu chủ
+# ============================================================
+backend:
+  name: github
+  repo: TEN-TAI-KHOAN-GITHUB/emma-ke-chuyen
+  branch: main
+  base_url: https://api.netlify.com
+  auth_endpoint: auth
+  commit_messages:
+    create: "Đăng mới {{collection}} “{{slug}}”"
+    update: "Cập nhật {{collection}} “{{slug}}”"
+    delete: "Xóa {{collection}} “{{slug}}”"
+    uploadMedia: "Tải ảnh “{{path}}”"
+    deleteMedia: "Xóa ảnh “{{path}}”"
+
+# Chạy thử admin trên máy: npm run admin-local, rồi mở http://localhost:8080/admin/
+local_backend: true
+
+locale: vi
+site_url: https://emma-ke-chuyen.netlify.app
+display_url: https://emma-ke-chuyen.netlify.app
+logo_url: /favicon.svg
+
+media_folder: static/uploads
+public_folder: /uploads
+
+slug:
+  encoding: ascii
+  clean_accents: true
+  sanitize_replacement: "-"
+
+collections:
+  # ---------------- TRUYỆN ----------------
+  - name: stories
+    label: "Truyện"
+    label_singular: "Truyện"
+    description: "Mỗi truyện gồm nhiều chương. Bấm “Publish” để đăng, website tự cập nhật sau khoảng 1 phút."
+    folder: content/stories
+    create: true
+    delete: true
+    slug: "{{title}}"
+    extension: md
+    format: frontmatter
+    summary: "{{title}} · {{status}} · {{date | date('DD/MM/YYYY')}}"
+    sortable_fields: ["date", "title"]
+    view_filters:
+      - { label: "Đang ra", field: status, pattern: "Đang ra" }
+      - { label: "Hoàn thành", field: status, pattern: "Hoàn thành" }
+      - { label: "Bản nháp", field: draft, pattern: true }
+    view_groups:
+      - { label: "Thể loại", field: genre }
+    fields:
+      - { label: "Tên truyện", name: title, widget: string }
+      - label: "Thể loại"
+        name: genre
+        widget: relation
+        collection: config
+        file: genres
+        search_fields: ["genres.*.name"]
+        display_fields: ["genres.*.name"]
+        value_field: "genres.*.slug"
+      - { label: "Tác giả", name: author, widget: string, default: "Emma" }
+      - { label: "Tóm tắt (hiện trên Google)", name: description, widget: text, hint: "Nên dài 120–160 ký tự, có từ khóa chính, ví dụ: truyện ngắn bí ẩn, chuyến tàu đêm…" }
+      - { label: "Từ khóa SEO", name: keywords, widget: list, required: false, hint: "Mỗi từ khóa một ô, ví dụ: truyện ma ngắn" }
+      - { label: "Ảnh bìa", name: cover, widget: image, required: false, hint: "Tỉ lệ 2:3 (ví dụ 600×900px). Bỏ trống để dùng bìa màu tự động." }
+      - { label: "Màu bìa 1", name: color1, widget: color, default: "#1E2A4A", required: false }
+      - { label: "Màu bìa 2", name: color2, widget: color, default: "#4A6FA5", required: false }
+      - { label: "Trạng thái", name: status, widget: select, options: ["Đang ra", "Hoàn thành"], default: "Đang ra" }
+      - { label: "Truyện nổi bật trên trang chủ", name: featured, widget: boolean, default: false }
+      - { label: "Bật mở khóa bằng quảng cáo", name: gate, widget: boolean, default: true, hint: "Tắt nếu muốn truyện này đọc tự do hoàn toàn" }
+      - { label: "Ngày cập nhật", name: date, widget: datetime, format: "YYYY-MM-DD", date_format: "DD/MM/YYYY", time_format: false }
+      - { label: "Bản nháp (ẩn khỏi website)", name: draft, widget: boolean, default: false }
+      - label: "Các chương"
+        name: chapters
+        widget: list
+        collapsed: true
+        add_to_top: false
+        summary: "{{fields.title}}"
+        label_singular: "chương"
+        fields:
+          - { label: "Tên chương", name: title, widget: string }
+          - { label: "Nội dung chương", name: body, widget: markdown, buttons: ["bold", "italic", "quote"], editor_components: [], hint: "Mỗi đoạn văn cách nhau một dòng trống." }
+
+  # ---------------- TRANG TĨNH ----------------
+  - name: pages
+    label: "Trang tĩnh"
+    label_singular: "Trang"
+    description: "Giới thiệu, Chính sách bảo mật, Liên hệ… (cần cho Google AdSense)"
+    folder: content/pages
+    create: true
+    slug: "{{title}}"
+    fields:
+      - { label: "Tiêu đề", name: title, widget: string }
+      - { label: "Mô tả ngắn (SEO)", name: description, widget: text }
+      - { label: "Nội dung", name: body, widget: markdown }
+
+  # ---------------- CÀI ĐẶT ----------------
+  - name: config
+    label: "Cài đặt"
+    editor: { preview: false }
+    files:
+      - name: settings
+        label: "Cài đặt website"
+        file: content/settings.json
+        fields:
+          - { label: "Tên website", name: siteName, widget: string }
+          - { label: "Khẩu hiệu", name: tagline, widget: string }
+          - { label: "Địa chỉ website (dùng khi chưa có tên miền)", name: siteUrl, widget: string, hint: "Trên Netlify địa chỉ được lấy tự động; ô này chỉ để dự phòng." }
+          - { label: "Mô tả website (SEO)", name: description, widget: text, hint: "Hiện trên Google ở trang chủ. 120–160 ký tự." }
+          - { label: "Tác giả mặc định", name: defaultAuthor, widget: string }
+          - { label: "Email liên hệ", name: contactEmail, widget: string, required: false }
+          - { label: "Ảnh chia sẻ mạng xã hội", name: ogImage, widget: image, required: false, hint: "1200×630px, hiện khi chia sẻ link lên Facebook/Zalo" }
+          - { label: "Mã xác minh Google Search Console", name: googleSiteVerification, widget: string, required: false, hint: "Chỉ dán phần content=\"...\" của thẻ meta" }
+          - { label: "Google Analytics (G-XXXXXXX)", name: gaMeasurementId, widget: string, required: false }
+          - label: "Quảng cáo Google AdSense"
+            name: ads
+            widget: object
+            collapsed: true
+            fields:
+              - { label: "Mã nhà xuất bản (ca-pub-…)", name: adsenseClient, widget: string, required: false }
+              - { label: "Slot banner đầu trang", name: slotTop, widget: string, required: false }
+              - { label: "Slot giữa chương", name: slotInChapter, widget: string, required: false }
+              - { label: "Slot cuối chương", name: slotEndChapter, widget: string, required: false }
+              - { label: "Slot cột phải", name: slotSidebar, widget: string, required: false }
+              - { label: "Slot trong cổng mở khóa", name: slotGate, widget: string, required: false }
+          - label: "Cổng mở khóa chương"
+            name: gate
+            widget: object
+            collapsed: true
+            fields:
+              - { label: "Bật cổng mở khóa", name: enabled, widget: boolean, default: true }
+              - { label: "Bắt đầu từ chương", name: startFrom, widget: number, value_type: int, min: 2, default: 3 }
+              - { label: "Cứ bao nhiêu chương một lần", name: every, widget: number, value_type: int, min: 1, default: 2, hint: "2 = chương 3, 5, 7… có quảng cáo" }
+              - { label: "Hiệu lực mở khóa (giờ)", name: unlockHours, widget: number, value_type: int, min: 1, default: 24 }
+              - { label: "Thời gian xem video (giây)", name: videoSeconds, widget: number, value_type: int, min: 5, default: 15 }
+              - { label: "Chờ sau khi bấm link affiliate (giây)", name: affiliateSeconds, widget: number, value_type: int, min: 0, default: 5 }
+              - { label: "Tiêu đề cổng", name: title, widget: string }
+              - { label: "Lời nhắn", name: message, widget: text }
+          - label: "Video quảng cáo"
+            name: videoAds
+            widget: list
+            summary: "{{fields.title}}"
+            fields:
+              - { label: "Tên nhà tài trợ", name: title, widget: string }
+              - { label: "Mã video YouTube", name: youtubeId, widget: string, required: false, hint: "Phần sau v= trong link, ví dụ dQw4w9WgXcQ" }
+              - { label: "Hoặc link file video (.mp4)", name: videoUrl, widget: string, required: false }
+              - { label: "Link đến trang nhà tài trợ", name: link, widget: string, required: false }
+          - label: "Link tiếp thị liên kết (affiliate)"
+            name: affiliate
+            widget: list
+            summary: "{{fields.title}}"
+            fields:
+              - { label: "Tên sản phẩm", name: title, widget: string }
+              - { label: "Mô tả ngắn", name: desc, widget: string, required: false }
+              - { label: "Chữ trên nút", name: cta, widget: string, default: "Xem ngay" }
+              - { label: "Link affiliate", name: url, widget: string }
+
+      - name: genres
+        label: "Thể loại (thư mục)"
+        file: content/genres.json
+        fields:
+          - label: "Danh sách thể loại"
+            name: genres
+            widget: list
+            summary: "{{fields.name}}"
+            fields:
+              - { label: "Tên thể loại", name: name, widget: string }
+              - { label: "Đường dẫn (không dấu)", name: slug, widget: string, hint: "Ví dụ: kinh-di. Đã đặt thì không nên đổi để giữ thứ hạng Google." }
+              - { label: "Mô tả (SEO)", name: description, widget: text, required: false }

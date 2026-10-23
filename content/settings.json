@@ -1,0 +1,37 @@
+{
+  "siteName": "Emma kể chuyện",
+  "tagline": "Truyện ngắn kể theo từng chương",
+  "siteUrl": "https://emma-ke-chuyen.netlify.app",
+  "description": "Emma kể chuyện – đọc truyện ngắn hay, cập nhật theo từng chương: bí ẩn, huyền ảo, tình cảm, đời thường. Đọc miễn phí trên điện thoại và máy tính.",
+  "defaultAuthor": "Emma",
+  "contactEmail": "lienhe@emmakechuyen.vn",
+  "ogImage": "",
+  "googleSiteVerification": "",
+  "gaMeasurementId": "",
+  "ads": {
+    "adsenseClient": "",
+    "slotTop": "",
+    "slotInChapter": "",
+    "slotEndChapter": "",
+    "slotSidebar": "",
+    "slotGate": ""
+  },
+  "gate": {
+    "enabled": true,
+    "startFrom": 3,
+    "every": 2,
+    "unlockHours": 24,
+    "videoSeconds": 15,
+    "affiliateSeconds": 5,
+    "title": "Mở khóa để đọc tiếp",
+    "message": "Emma kể chuyện miễn phí nhờ nhà tài trợ. Bạn chọn một cách bên dưới để mở khóa chương này nhé."
+  },
+  "videoAds": [
+    { "title": "Video nhà tài trợ", "youtubeId": "", "videoUrl": "", "link": "" }
+  ],
+  "affiliate": [
+    { "title": "Sổ tay & bút cho người mê viết", "desc": "Thay bằng link Shopee Affiliate của bạn", "cta": "Xem trên Shopee", "url": "https://shopee.vn" },
+    { "title": "Tủ sách truyện ngắn Việt Nam", "desc": "Thay bằng link Tiki/Fahasa của bạn", "cta": "Xem sách", "url": "https://tiki.vn" },
+    { "title": "Đèn đọc sách kẹp bàn", "desc": "Sản phẩm hợp với độc giả đọc đêm", "cta": "Xem giá", "url": "https://www.lazada.vn" }
+  ]
+}
