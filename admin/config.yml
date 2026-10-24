@@ -5,7 +5,7 @@
 # ============================================================
 backend:
   name: github
-  repo: tuyennt29/emma-ke-chuyen
+  repo: tuyennt29/emmakechuyen
   branch: main
   base_url: https://api.netlify.com
   auth_endpoint: auth
@@ -20,8 +20,8 @@ backend:
 local_backend: true
 
 locale: vi
-site_url: https://emma-ke-chuyen.netlify.app
-display_url: https://emma-ke-chuyen.netlify.app
+site_url: https://emmakechuyen.netlify.app
+display_url: https://emmakechuyen.netlify.app
 logo_url: /favicon.svg
 
 media_folder: static/uploads
