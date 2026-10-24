@@ -4046,372 +4046,648 @@ chapters:
   - title: Đêm rằm tháng Mười Một
     body: >-
       Ở quê tôi cứ vào những tháng cuối năm là người ta lại bắt đầu lo chuyện mồ
-      mả. Nhà thì sửa sang phần mộ tổ tiên, nhà thì xem ngày sang cát cho người
-      đã khuất. Người lớn vẫn thường dặn chuyện động đến mồ mả phải cẩn thận,
-      nhất là vào những ngày sóc vọng. Hôm ấy vừa đúng rằm tháng mười một. Bình
-      thường tôi chẳng mấy khi để tâm đến ngày âm, càng không nghĩ một ngày rằm
-      như thế lại có gì đặc biệt. Vậy mà chiều hôm đó ông Cẩn lại bảo tôi với
-      Nam chuẩn bị theo ông xuống Bắc Ninh. Nơi ông định đưa hai đứa tới chẳng
-      phải nghĩa địa, đền miếu hay nhà của một ông thầy nào như tôi vẫn tưởng mà
-      là một nơi có cái tên nghe thôi đã thấy chẳng lành: Chợ Âm Phủ.
+      mả. Nhà thì sửa sang phần mộ tổ tiên, nhà thì xem ngày sang cát cho người đã
+      khuất. Người lớn vẫn thường dặn chuyện động đến mồ mả phải cẩn thận, nhất là
+      vào những ngày sóc vọng. Hôm ấy vừa đúng rằm tháng mười một. Bình thường tôi
+      chẳng mấy khi để tâm đến ngày âm, càng không nghĩ một ngày rằm như thế lại
+      có gì đặc biệt. Vậy mà chiều hôm đó ông Cẩn lại bảo tôi với Nam chuẩn bị
+      theo ông xuống Bắc Ninh. Nơi ông định đưa hai đứa tới chẳng phải nghĩa địa,
+      đền miếu hay nhà của một ông thầy nào như tôi vẫn tưởng mà là một nơi có cái
+      tên nghe thôi đã thấy chẳng lành: Chợ Âm Phủ.
 
-      Nam cũng không nói gì, nó ngồi yên một lúc lâu, mắt vẫn nhìn chằm chằm vào chiếc radio cũ. Bàn tay đặt trên mặt bàn vô thức siết lại. Bà chủ quán thì chẳng để ý, vẫn lúi húi bên nồi trứng.
 
-      •	Hai chú ăn đi, để nguội mất ngon.
+      Nam cũng không nói gì, nó ngồi yên một lúc lâu, mắt vẫn nhìn chằm chằm vào
+      chiếc radio cũ. Bàn tay đặt trên mặt bàn vô thức siết lại. Bà chủ quán thì
+      chẳng để ý, vẫn lúi húi bên nồi trứng.
 
-      Tôi giật mình, cúi xuống nhìn quả trứng trên tay. Tôi chẳng còn bụng dạ nào ăn nữa nhưng vẫn cố bóc nốt mấy mảnh vỏ còn lại rồi cho vào miệng nuốt. Nam đứng dậy trước, nó ,móc mấy tờ tiền lẻ trong túi quần, hỏi:
 
-      •	Của cháu nhiêu thế bác?
+      - Hai chú ăn đi, để nguội mất ngon.
 
-      •	Chú đưa bác hai ngàn.
+
+      Tôi giật mình, cúi xuống nhìn quả trứng trên tay. Tôi chẳng còn bụng dạ nào
+      ăn nữa nhưng vẫn cố bóc nốt mấy mảnh vỏ còn lại rồi cho vào miệng nuốt. Nam
+      đứng dậy trước, nó móc mấy tờ tiền lẻ trong túi quần, hỏi:
+
+
+      - Của cháu nhiêu thế bác?
+
+
+      - Chú đưa bác hai ngàn.
+
 
       Nam lấy tiền trả rồi kéo tôi ra xe. Ra đến ngoài đường, tôi mới hỏi:
 
-      •	Mày có nghe thấy không?
 
-      •	Nghe gì?
+      - Mày có nghe thấy không?
+
+
+      - Nghe gì?
+
 
       Tôi nhìn nó, hướng mắt về phía trước quán nước:
 
-      •	Lúc nãy cái radio...
+
+      - Lúc nãy cái radio...
+
 
       Nam im lặng vài giây rồi mới đáp:
 
-      •	Có.
 
-      Chỉ một chữ cộc lốc vang lên. Tôi nhìn khuôn mặt lạnh tanh của nó, không hiểu sao lại thấy lạnh sống lưng.
+      - Có.
 
-      •	Mày cũng nghe thấy nó gọi tên Hương à?
+
+      Chỉ một chữ cộc lốc vang lên. Tôi nhìn khuôn mặt lạnh tanh của nó, không
+      hiểu sao lại thấy lạnh sống lưng.
+
+
+      - Mày cũng nghe thấy nó gọi tên Hương à?
+
 
       Nam không vội trả lời, nó cúi xuống mở khóa xe, giọng thấp hẳn:
 
-      •	Đi thôi, về đến Hà Nội rồi nói sau.
 
-      Tôi không hỏi nữa. Chiếc Dream nổ máy, tiếng động cơ nhanh chóng át đi tiếng radio từ trong quán nước vọng ra. Chúng tôi nhập vào con đường lớn, xe cộ bắt đầu đông hơn. Hai bên đường nhà cửa cũng nhiều dần, những quán hàng nối tiếp nhau, người đi lại đông đúc khiến cảm giác lạnh lẽo lúc nãy cũng vơi đi đôi chút. Nam chạy xe không nhanh nữa nhưng từ lúc rời quán nước đến giờ, nó gần như không nói thêm câu nào. Tôi ngồi sau cũng im lặng, trong đầu tôi cứ quanh quẩn câu nói của ông Cẩn.
+      - Đi thôi, về đến Hà Nội rồi nói sau.
+
+
+      Tôi không hỏi nữa. Chiếc Dream nổ máy, tiếng động cơ nhanh chóng át đi tiếng
+      radio từ trong quán nước vọng ra. Chúng tôi nhập vào con đường lớn, xe cộ
+      bắt đầu đông hơn. Hai bên đường nhà cửa cũng nhiều dần, những quán hàng nối
+      tiếp nhau, người đi lại đông đúc khiến cảm giác lạnh lẽo lúc nãy cũng vơi đi
+      đôi chút. Nam chạy xe không nhanh nữa nhưng từ lúc rời quán nước đến giờ, nó
+      gần như không nói thêm câu nào. Tôi ngồi sau cũng im lặng, trong đầu tôi cứ
+      quanh quẩn câu nói của ông Cẩn.
+
 
       "Càng để lâu nó sẽ càng tìm cách cản cậu."
 
-      Tôi không biết "nó" mà ông Cẩn nói là thứ gì. Càng nghĩ, tôi càng thấy cuộc điện thoại lúc sáng có gì đó không ổn. Nếu chỉ là chuyện hình xăm, ông Cẩn đâu cần phải giục Nam về gấp như vậy. Ông còn nói bằng mọi giá phải có mặt ở tiệm trước tối nay, nghe chẳng khác nào đang chạy đua với một thứ gì đó mà chỉ ông biết. Khoảng hơn một giờ chiều, chúng tôi mới về đến Hà Nội. Nam chạy thẳng tới tiệm ông Cẩn. Ban ngày con phố vẫn đông người như mọi khi, tiếng xe máy chạy qua chạy lại, mấy quán ăn bên đường đang đông khách. Nam chạy chậm lại, rẽ vào con ngõ nhỏ dẫn tới tiệm ông Cẩn. Con ngõ này hẹp, hai bên là những căn nhà cũ sát nhau, đi sâu vào một đoạn mới thấy tấm biển tiệm xăm quen thuộc nằm khuất phía trong. Hai đứa chúng tôi dựng xe rồi bước vào tiệm.
 
-      Chúng tôi đã tới đây từ tối hôm trước nên chẳng còn xa lạ gì với nơi này, chỉ có điều ban ngày nhìn căn tiệm lại thấy khác hẳn. Ánh sáng từ ngoài đường chiếu qua cửa kính, soi rõ từng bức hình xăm treo trên tường và mấy món đồ cũ nằm im trong góc. Mọi thứ đều rõ ràng, chẳng có gì đáng sợ vậy mà tôi vẫn thấy trong người hơi lạnh. Có những nơi ban đêm nhìn đáng sợ vì thiếu ánh sáng, còn tiệm ông Cẩn thì ngược lại. Càng sáng, tôi lại càng có cảm giác nơi này đang giấu thứ gì đó mà mình không nên nhìn thấy.
+      Tôi không biết "nó" mà ông Cẩn nói là thứ gì. Càng nghĩ, tôi càng thấy cuộc
+      điện thoại lúc sáng có gì đó không ổn. Nếu chỉ là chuyện hình xăm, ông Cẩn
+      đâu cần phải giục Nam về gấp như vậy. Ông còn nói bằng mọi giá phải có mặt ở
+      tiệm trước tối nay, nghe chẳng khác nào đang chạy đua với một thứ gì đó mà
+      chỉ ông biết. Khoảng hơn một giờ chiều, chúng tôi mới về đến Hà Nội. Nam
+      chạy thẳng tới tiệm ông Cẩn. Ban ngày con phố vẫn đông người như mọi khi,
+      tiếng xe máy chạy qua chạy lại, mấy quán ăn bên đường đang đông khách. Nam
+      chạy chậm lại, rẽ vào con ngõ nhỏ dẫn tới tiệm ông Cẩn. Con ngõ này hẹp, hai
+      bên là những căn nhà cũ sát nhau, đi sâu vào một đoạn mới thấy tấm biển tiệm
+      xăm quen thuộc nằm khuất phía trong. Hai đứa chúng tôi dựng xe rồi bước vào
+      tiệm.
 
-      Nam đẩy cửa bước vào, chiếc chuông nhỏ treo trên cửa lập tức kêu leng keng. Bên trong tiệm không tối, đèn vẫn bật sáng như một cửa hàng bình thường. Chỉ có điều ánh đèn vàng nhạt khiến mọi thứ trông cũ kỹ hơn. Mùi mực xăm, mùi cồn sát trùng trộn lẫn với một thứ mùi ngai ngái rất khó tả. Ông Cẩn đang ngồi phía sau quầy, trước mặt là một cốc trà đã nguội. Thấy hai đứa bước vào, ông chỉ ngẩng đầu lên nhìn đồng hồ treo trên tường, lẩm bẩm nói:
 
-      •	Một giờ mười hai rồi.
+      Chúng tôi đã tới đây từ tối hôm trước nên chẳng còn xa lạ gì với nơi này,
+      chỉ có điều ban ngày nhìn căn tiệm lại thấy khác hẳn. Ánh sáng từ ngoài
+      đường chiếu qua cửa kính, soi rõ từng bức hình xăm treo trên tường và mấy
+      món đồ cũ nằm im trong góc. Mọi thứ đều rõ ràng, chẳng có gì đáng sợ vậy mà
+      tôi vẫn thấy trong người hơi lạnh. Có những nơi ban đêm nhìn đáng sợ vì
+      thiếu ánh sáng, còn tiệm ông Cẩn thì ngược lại. Càng sáng, tôi lại càng có
+      cảm giác nơi này đang giấu thứ gì đó mà mình không nên nhìn thấy.
+
+
+      Nam đẩy cửa bước vào, chiếc chuông nhỏ treo trên cửa lập tức kêu leng keng.
+      Bên trong tiệm không tối, đèn vẫn bật sáng như một cửa hàng bình thường. Chỉ
+      có điều ánh đèn vàng nhạt khiến mọi thứ trông cũ kỹ hơn. Mùi mực xăm, mùi
+      cồn sát trùng trộn lẫn với một thứ mùi ngai ngái rất khó tả. Ông Cẩn đang
+      ngồi phía sau quầy, trước mặt là một cốc trà đã nguội. Thấy hai đứa bước
+      vào, ông chỉ ngẩng đầu lên nhìn đồng hồ treo trên tường, lẩm bẩm nói:
+
+
+      - Một giờ mười hai rồi.
+
 
       Nam đặt ba lô xuống ghế, nhìn ông Cẩn nghiêm túc nói:
 
-      •	Cháu tới rồi đây.
 
-      Ông Cẩn gật đầu, ông nhìn Nam rồi lại quay sang nhìn tôi một lượt, cứ như thể đang đắn đo cân nhắc chuyện gì đó, rồi ông mới cất giọng hỏi:
+      - Cháu tới rồi đây.
 
-      •	Hai cậu ăn gì chưa?
 
-      •	Cháu ăn rồi.
+      Ông Cẩn gật đầu, ông nhìn Nam rồi lại quay sang nhìn tôi một lượt, cứ như
+      thể đang đắn đo cân nhắc chuyện gì đó, rồi ông mới cất giọng hỏi:
 
-      Nam đáp, ông Cẩn không hỏi thêm, chỉ đứng dậy kéo chiếc ghế phía trước quầy ra.
 
-      •	Ngồi đi.
+      - Hai cậu ăn gì chưa?
 
-      Tôi với Nam ngồi xuống. Nam vừa định nói chuyện thì ông Cẩn đã đưa tay lên ngăn lại.
 
-      •	Có chuyện gì thì để tối nói sau.
+      - Cháu ăn rồi.
+
+
+      Nam đáp, ông Cẩn không hỏi thêm, chỉ đứng dậy kéo chiếc ghế phía trước quầy
+      ra.
+
+
+      - Ngồi đi.
+
+
+      Tôi với Nam ngồi xuống. Nam vừa định nói chuyện thì ông Cẩn đã đưa tay lên
+      ngăn lại.
+
+
+      - Có chuyện gì thì để tối nói sau.
+
 
       Nam cau mày.
 
-      •	Tại sao phải đợi tới tối hả bác?
 
-      Ông Cẩn nhìn ra ngoài cửa kính. Nắng trưa đang chiếu xuống con phố, người đi lại vẫn đông đúc.
+      - Tại sao phải đợi tới tối hả bác?
 
-      •	Vì tôi còn phải chuẩn bị vài thứ.
 
-      •	Chuẩn bị gì bác?
+      Ông Cẩn nhìn ra ngoài cửa kính. Nắng trưa đang chiếu xuống con phố, người đi
+      lại vẫn đông đúc.
 
-      •	Đi Bắc Ninh.
+
+      - Vì tôi còn phải chuẩn bị vài thứ.
+
+
+      - Chuẩn bị gì bác?
+
+
+      - Đi Bắc Ninh.
+
 
       Nam ngẩn ra.
 
-      •	Bắc Ninh?
+
+      - Bắc Ninh?
+
 
       Ông Cẩn gật đầu.
 
-      •	Tối nay tôi phải xuống đó.
+
+      - Tối nay tôi phải xuống đó.
+
 
       Tôi nhìn Nam, cả hai đứa đều chẳng hiểu gì, tôi lên tiếng hỏi:
 
-      •	Xuống đó làm gì hả bác?
 
-      Ông Cẩn rót thêm trà vào cốc, giọng bình thản như đang nói chuyện đi mua đồ ngoài chợ.
+      - Xuống đó làm gì hả bác?
 
-      •	Đi chợ Âm Phủ.
+
+      Ông Cẩn rót thêm trà vào cốc, giọng bình thản như đang nói chuyện đi mua đồ
+      ngoài chợ.
+
+
+      - Đi chợ Âm Phủ.
+
 
       Tôi tưởng mình nghe nhầm, trợn mắt hỏi lại:
 
-      •	Bác bảo chợ gì cơ?
+
+      - Bác bảo chợ gì cơ?
+
 
       Ông Cẩn ngẩng đầu nhìn thẳng vào mắt tôi, nhấn mạnh từng chữ:
 
-      •	Chợ Âm Phủ.
 
-      Nam cũng thấy khó hiểu, dù nghe cái tên hai đứa cũng lờ mờ đoán được nhưng nó vẫn hỏi để biết thêm:
+      - Chợ Âm Phủ.
 
-      •	Chợ ấy để làm gì thế bác?
+
+      Nam cũng thấy khó hiểu, dù nghe cái tên hai đứa cũng lờ mờ đoán được nhưng
+      nó vẫn hỏi để biết thêm:
+
+
+      - Chợ ấy để làm gì thế bác?
+
 
       Ông Cẩn cầm cốc trà lên, nhấp một ngụm rồi mới đáp:
 
-      •	Mua vài thứ tôi cần cho việc xăm.
+
+      - Mua vài thứ tôi cần cho việc xăm.
+
 
       Tôi bật cười theo phản xạ.
 
-      •	Bác đùa bọn cháu đấy à? Chợ Âm Phủ có thật sao?
+
+      - Bác đùa bọn cháu đấy à? Chợ Âm Phủ có thật sao?
+
 
       Ông Cẩn đặt cốc xuống, nghiêm giọng đáp:
 
-      •	Có.
 
-      Chỉ một tiếng nhưng lại khiến tôi không cười nổi nữa. Ông Cẩn đứng dậy, đi vào phía trong. Tôi để ý bên góc phòng có một chiếc tủ gỗ cũ, trên nóc đặt mấy bát hương nhỏ, vài chai lọ không có nhãn và một bó nhang đã cháy dở. Ban ngày, tiệm vẫn có người qua lại nhưng chẳng hiểu sao những thứ ấy khiến nơi này có cảm giác giống một căn phòng thờ hơn là một tiệm xăm. Nam nhìn theo ông Cẩn hỏi:
+      - Có.
 
-      •	Bác cần mua gì?
+
+      Chỉ một tiếng nhưng lại khiến tôi không cười nổi nữa. Ông Cẩn đứng dậy, đi
+      vào phía trong. Tôi để ý bên góc phòng có một chiếc tủ gỗ cũ, trên nóc đặt
+      mấy bát hương nhỏ, vài chai lọ không có nhãn và một bó nhang đã cháy dở. Ban
+      ngày, tiệm vẫn có người qua lại nhưng chẳng hiểu sao những thứ ấy khiến nơi
+      này có cảm giác giống một căn phòng thờ hơn là một tiệm xăm. Nam nhìn theo
+      ông Cẩn hỏi:
+
+
+      - Bác cần mua gì?
+
 
       Ông Cẩn không quay lại nhưng vẫn trả lời nó:
 
-      •	Một vài thứ không mua được ở chợ thường.
 
-      •	Thứ gì thế bác?
+      - Một vài thứ không mua được ở chợ thường.
+
+
+      - Thứ gì thế bác?
+
 
       Ông im lặng một lát rồi mới nói:
 
-      •	Đến lúc ấy hai cậu tự khắc biết.
 
-      Nói xong ông không giải thích thêm. Nam vốn đang sốt ruột, nó ngồi thêm một lúc rồi cắn răng đánh bạo nói:
+      - Đến lúc ấy hai cậu tự khắc biết.
 
-      •	À đúng rồi, sáng nay bọn cháu còn gặp một chuyện nữa.
+
+      Nói xong ông không giải thích thêm. Nam vốn đang sốt ruột, nó ngồi thêm một
+      lúc rồi cắn răng đánh bạo nói:
+
+
+      - À đúng rồi, sáng nay bọn cháu còn gặp một chuyện nữa.
+
 
       Ông Cẩn ngẩng lên.
 
-      •	Chuyện gì?
+
+      - Chuyện gì?
+
 
       Nam lấy chiếc kẹp tóc ra khỏi túi áo, đặt lên bàn.
 
-      •	Bọn cháu tìm thấy cái này ở một ngôi miếu ở gần nghĩa địa của Hương.
 
-      Ông Cẩn nhìn chiếc kẹp nhưng chưa vội cầm lên. Nam kể lại từ đầu, từ chuyện về quê Hương nhưng họ hàng Hương đã đột ngột chuyển đi mất, chuyện hai đứa ghé vào ngôi miếu tránh mưa, hàng dấu chân chỉ đi vào mà không thấy đi ra, rồi chiếc kẹp tóc của Hương lại nằm ngay phía sau ban thờ. Nó cũng kể luôn chuyện ông lão trông miếu đã cảnh báo hai đứa đừng mang đồ của người chết về. Tôi ngồi bên cạnh kể thêm chuyện lúc trên đường về, chiếc kẹp tự nhiên ướt lạnh, rồi thứ đen nhánh giống con đỉa bám trên mặt sau và có vẻ như đang hút máu. Ông Cẩn từ đầu đến cuối chỉ im lặng nghe. Đến khi tôi kể xong, ông mới đưa mắt nhìn chiếc kẹp lần nữa.
+      - Bọn cháu tìm thấy cái này ở một ngôi miếu ở gần nghĩa địa của Hương.
 
-      •	Đưa đây tôi xem.
 
-      Nam đẩy chiếc kẹp về phía ông. Ông Cẩn không cầm trực tiếp mà lấy một mảnh vải sạch lót vào tay rồi mới nhấc nó lên. Ánh mắt ông dừng rất lâu ở mặt sau chiếc kẹp, nơi thứ đen nhánh kia từng bám vào. Ông Cẩn nhìn nó rất lâu rồi mới cất tiếng hỏi:
+      Ông Cẩn nhìn chiếc kẹp nhưng chưa vội cầm lên. Nam kể lại từ đầu, từ chuyện
+      về quê Hương nhưng họ hàng Hương đã đột ngột chuyển đi mất, chuyện hai đứa
+      ghé vào ngôi miếu tránh mưa, hàng dấu chân chỉ đi vào mà không thấy đi ra,
+      rồi chiếc kẹp tóc của Hương lại nằm ngay phía sau ban thờ. Nó cũng kể luôn
+      chuyện ông lão trông miếu đã cảnh báo hai đứa đừng mang đồ của người chết
+      về. Tôi ngồi bên cạnh kể thêm chuyện lúc trên đường về, chiếc kẹp tự nhiên
+      ướt lạnh, rồi thứ đen nhánh giống con đỉa bám trên mặt sau và có vẻ như đang
+      hút máu. Ông Cẩn từ đầu đến cuối chỉ im lặng nghe. Đến khi tôi kể xong, ông
+      mới đưa mắt nhìn chiếc kẹp lần nữa.
 
-      •	Cậu nói nhặt được ở đâu?
 
-      •	Trong một ngôi miếu cạnh gốc cây gạo.
+      - Đưa đây tôi xem.
 
-      Ông Cẩn khẽ gật đầu, không nói gì. Ông xoay chiếc kẹp trong tay, đưa lên sát ánh đèn rồi nhìn rất lâu vào mặt sau. Một lúc sau, ông mới hỏi:
 
-      •	Cái này của ai?
+      Nam đẩy chiếc kẹp về phía ông. Ông Cẩn không cầm trực tiếp mà lấy một mảnh
+      vải sạch lót vào tay rồi mới nhấc nó lên. Ánh mắt ông dừng rất lâu ở mặt sau
+      chiếc kẹp, nơi thứ đen nhánh kia từng bám vào. Ông Cẩn nhìn nó rất lâu rồi
+      mới cất tiếng hỏi:
 
-      •	Của Hương.
+
+      - Cậu nói nhặt được ở đâu?
+
+
+      - Trong một ngôi miếu cạnh gốc cây gạo.
+
+
+      Ông Cẩn khẽ gật đầu, không nói gì. Ông xoay chiếc kẹp trong tay, đưa lên sát
+      ánh đèn rồi nhìn rất lâu vào mặt sau. Một lúc sau, ông mới hỏi:
+
+
+      - Cái này của ai?
+
+
+      - Của Hương.
+
 
       Bàn tay ông Cẩn khựng lại.
 
-      •	Hương?
 
-      •	Vâng.
+      - Hương?
+
+
+      - Vâng.
+
 
       Nam nhìn ông, giọng chắc nịch:
 
-      •	Bạn gái cháu.
 
-      Ông Cẩn không hỏi thêm, ông lấy một mảnh vải sạch lau nhẹ lên mặt chiếc kẹp. Phần kim loại vốn đã cũ nhưng khi ánh đèn chiếu vào, tôi vẫn nhìn thấy một lớp màu nâu đỏ rất mỏng bám trong khe cánh bướm. Ông Cẩn nhìn hồi lâu rồi hỏi:
+      - Bạn gái cháu.
 
-      •	Lúc thứ kia bám trên chiếc kẹp, nó có hút máu của cậu không?
+
+      Ông Cẩn không hỏi thêm, ông lấy một mảnh vải sạch lau nhẹ lên mặt chiếc kẹp.
+      Phần kim loại vốn đã cũ nhưng khi ánh đèn chiếu vào, tôi vẫn nhìn thấy một
+      lớp màu nâu đỏ rất mỏng bám trong khe cánh bướm. Ông Cẩn nhìn hồi lâu rồi
+      hỏi:
+
+
+      - Lúc thứ kia bám trên chiếc kẹp, nó có hút máu của cậu không?
+
 
       Nam lắc đầu, vội đáp:
 
-      •	Cháu tưởng là có nhưng nghĩ lại thì không giống lắm.
+
+      - Cháu tưởng là có nhưng nghĩ lại thì không giống lắm.
+
 
       Ông Cẩn gật đầu.
 
-      •	Ừ, nó không tìm máu của cậu.
+
+      - Ừ, nó không tìm máu của cậu.
+
 
       Tôi ngơ ngác:
 
-      •	Vậy nó tìm gì?
+
+      - Vậy nó tìm gì?
+
 
       Ông Cẩn đặt chiếc kẹp xuống bàn, đáp:
 
-      •	Thứ đã ở trên chiếc kẹp từ trước.
+
+      - Thứ đã ở trên chiếc kẹp từ trước.
+
 
       Tôi với Nam nhìn nhau, hai đứa đồng thanh lên tiếng:
 
-      •	Máu của Hương?
 
-      Ông Cẩn không đáp ngay, ông chỉ dùng ngón tay gõ nhẹ lên mặt bàn, từng tiếng một giống như đang cần tập trung suy nghĩ. Một lúc sau ông mới nói:
+      - Máu của Hương?
 
-      •	Nó quen mùi máu của một người rồi, khô mấy nó vẫn nhận ra.
+
+      Ông Cẩn không đáp ngay, ông chỉ dùng ngón tay gõ nhẹ lên mặt bàn, từng tiếng
+      một giống như đang cần tập trung suy nghĩ. Một lúc sau ông mới nói:
+
+
+      - Nó quen mùi máu của một người rồi, khô mấy nó vẫn nhận ra.
+
 
       Nam nhíu mày hỏi:
 
-      •	Bác nói gì cháu không hiểu.
+
+      - Bác nói gì cháu không hiểu.
+
 
       Ông Cẩn nhìn thẳng vào Nam, cất giọng chắc nịch:
 
-      •	Con ngải này cũng vậy.
+
+      - Con ngải này cũng vậy.
+
 
       Căn phòng bỗng im hẳn, tôi rùng mình hỏi:
 
-      •	Ngải?
+
+      - Ngải?
+
 
       Ông Cẩn gật đầu.
 
-      •	Có người nuôi nó.
+
+      - Có người nuôi nó.
+
 
       Vừa nói ông Cẩn lấy chiếc kẹp lên xem kỹ lại lần nữa, giọng vẫn đều đều:
 
-      •	Trên này dù máu đã khô từ lâu nhưng với nó vẫn chưa mất mùi hẳn. Nếu chiếc kẹp này thực sự là đồ của Hương thì cậu nên suy nghĩ một chuyện.
 
-      •	Chuyện gì?
+      - Trên này dù máu đã khô từ lâu nhưng với nó vẫn chưa mất mùi hẳn. Nếu chiếc
+      kẹp này thực sự là đồ của Hương thì cậu nên suy nghĩ một chuyện.
+
+
+      - Chuyện gì?
+
 
       Ông Cẩn nhìn vào chiếc kẹp, ánh mắt sâu xuống.
 
-      •	Chiếc kẹp này còn dính máu của Hương. Con ngải nhận ra được nên nó mới bám vào.
+
+      - Chiếc kẹp này còn dính máu của Hương. Con ngải nhận ra được nên nó mới bám
+      vào.
+
 
       Tôi với Nam cùng im lặng, một lúc sau tôi mới lên tiếng:
 
-      •	Ý bác là con ngải này đã từng ăn máu của Hương trước đó?
+
+      - Ý bác là con ngải này đã từng ăn máu của Hương trước đó?
+
 
       Ông Cẩn không gật cũng chẳng lắc đầu.
 
-      •	Tôi chỉ nói những gì chiếc kẹp cho tôi biết.
+
+      - Tôi chỉ nói những gì chiếc kẹp cho tôi biết.
+
 
       Nam nhìn ông, hỏi tiếp:
 
-      •	Vậy ý bác là Hương đã nuôi ngải khi còn sống?
+
+      - Vậy ý bác là Hương đã nuôi ngải khi còn sống?
+
 
       Ông Cẩn ngẩng đầu.
 
-      •	Chưa chắc, người dùng máu nuôi ngải chưa chắc đã là chủ nhân của nó.
 
-      Câu nói ấy khiến tôi càng thấy khó hiểu, Nam cũng nhăn mặt lại, nó đã có chút nóng vội, cao giọng hỏi:
+      - Chưa chắc, người dùng máu nuôi ngải chưa chắc đã là chủ nhân của nó.
 
-      •	Thế rốt cuộc Hương có liên quan gì với thứ này?
+
+      Câu nói ấy khiến tôi càng thấy khó hiểu, Nam cũng nhăn mặt lại, nó đã có
+      chút nóng vội, cao giọng hỏi:
+
+
+      - Thế rốt cuộc Hương có liên quan gì với thứ này?
+
 
       Ông Cẩn im lặng một lúc lâu rồi mới từ từ nhả từng chữ:
 
-      •	Cái đó tôi cũng đang muốn biết.
 
-      Nam siết chặt tay, nó nghiến răng nói lên suy nghĩ của mình.
+      - Cái đó tôi cũng đang muốn biết.
 
-      •	Nhưng Hương chỉ là một cô gái bình thường, cô ấy còn chẳng bao giờ nói với cháu chuyện bùa ngải hay những thứ như thế. Làm sao cô ấy có thể nuôi ngải được? Mà cô ấy nuôi ngải để làm gì cơ chứ.
+
+      Nam siết chặt tay, nó nghiến răng nói lên suy nghĩ của mình:
+
+
+      - Nhưng Hương chỉ là một cô gái bình thường, cô ấy còn chẳng bao giờ nói với
+      cháu chuyện bùa ngải hay những thứ như thế. Làm sao cô ấy có thể nuôi ngải
+      được? Mà cô ấy nuôi ngải để làm gì cơ chứ?
+
 
       Ông Cẩn nhìn Nam, giọng thấp xuống:
 
-      •	Chính vì cậu nghĩ cô ấy là một cô gái bình thường nên chuyện này mới đáng sợ.
 
-      Tôi nhìn chiếc kẹp nằm giữa bàn, một món đồ còn sót lại của Hương trước khi chút, một con ngải đã ăn máu khô của cô ấy và một ngôi miếu chẳng ai biết thờ ai cùng ông lão trông miếu kỳ lạ. Tôi không biết những chuyện ấy có liên quan đến nhau hay không, nhưng càng nghĩ tôi càng thấy cái chết của Hương có lẽ không đơn giản như chúng tôi vẫn tưởng.
+      - Chính vì cậu nghĩ cô ấy là một cô gái bình thường nên chuyện này mới đáng
+      sợ.
 
-      •	Còn cái chết của Hương? Nó có liên quan tới con ngải này không?
+
+      Tôi nhìn chiếc kẹp nằm giữa bàn, một món đồ còn sót lại của Hương trước khi
+      chết, một con ngải đã ăn máu khô của cô ấy và một ngôi miếu chẳng ai biết
+      thờ ai cùng ông lão trông miếu kỳ lạ. Tôi không biết những chuyện ấy có liên
+      quan đến nhau hay không, nhưng càng nghĩ tôi càng thấy cái chết của Hương có
+      lẽ không đơn giản như chúng tôi vẫn tưởng.
+
+
+      - Còn cái chết của Hương? Nó có liên quan tới con ngải này không?
+
 
       Câu hỏi của Nam cũng là điều tôi muốn hỏi, ông Cẩn im lặng rất lâu.
 
-      •	Có thể có liên quan, cũng có thể không.
+
+      - Có thể có liên quan, cũng có thể không.
+
 
       Nam nghiến răng.
 
-      •	Cháu cần một câu trả lời.
+
+      - Cháu cần một câu trả lời.
+
 
       Ông Cẩn nhìn nó.
 
-      •	Muốn có câu trả lời thì tối nay đi với tôi.
 
-      •	Đi đâu bác?
+      - Muốn có câu trả lời thì tối nay đi với tôi.
 
-      •	Bắc Ninh.
 
-      •	Chợ Âm Phủ ạ?
+      - Đi đâu bác?
 
-      •	Ừ.
+
+      - Bắc Ninh.
+
+
+      - Chợ Âm Phủ ạ?
+
+
+      - Ừ.
+
 
       Ông Cẩn đứng dậy, đi về phía chiếc tủ gỗ.
 
-      •	Có những thứ chỉ mua được ở đó mà cũng có những chuyện tôi cần kiểm tra trước khi xăm cho cậu.
 
-      •	Chuyện gì bác?
+      - Có những thứ chỉ mua được ở đó mà cũng có những chuyện tôi cần kiểm tra
+      trước khi xăm cho cậu.
 
-      Ông Cẩn vẫn đứng quay lưng về phía chúng tôi, ông im lặng một lúc rồi mới kéo cánh cửa tủ gỗ ra, lấy xuống một chiếc hộp nhỏ bằng gỗ đã ngả màu. Ông đặt chiếc hộp lên bàn, nhưng không mở ngay.
 
-      •	Có một việc tôi cần hai cậu nhớ kỹ.
+      - Chuyện gì bác?
+
+
+      Ông Cẩn vẫn đứng quay lưng về phía chúng tôi, ông im lặng một lúc rồi mới
+      kéo cánh cửa tủ gỗ ra, lấy xuống một chiếc hộp nhỏ bằng gỗ đã ngả màu. Ông
+      đặt chiếc hộp lên bàn, nhưng không mở ngay.
+
+
+      - Có một việc tôi cần hai cậu nhớ kỹ.
+
 
       Nam ngẩng đầu:
 
-      •	Việc gì ạ?
+
+      - Việc gì ạ?
+
 
       Ông Cẩn nhìn đồng hồ trên tường rồi nói:
 
-      •	Tối nay xuống đó, dù có nhìn thấy ai quen, nghe thấy ai gọi tên mình thì cũng đừng tùy tiện đi theo.
+
+      - Tối nay xuống đó, dù có nhìn thấy ai quen, nghe thấy ai gọi tên mình thì
+      cũng đừng tùy tiện đi theo.
+
 
       Tôi nghe vậy thì bật cười:
 
-      •	Bác làm như bọn cháu đi vào chỗ nào ghê gớm lắm ấy.
+
+      - Bác làm như bọn cháu đi vào chỗ nào ghê gớm lắm ấy.
+
 
       Ông Cẩn nhìn tôi, không cười, mặt nghiêm lại nói:
 
-      •	Tôi không đùa. Hai giờ nữa chúng ta xuất phát.
+
+      - Tôi không đùa. Hai giờ nữa chúng ta xuất phát.
+
 
       Nam nhìn đồng hồ hỏi lại:
 
-      •	Nếu đi lúc ba giờ hơn thì khoảng năm, sáu giờ mình tới nơi hả bác?
 
-      •	Ừ, tới đó tầm 5,6 giờ tối là vừa.
+      - Nếu đi lúc ba giờ hơn thì khoảng năm, sáu giờ mình tới nơi hả bác?
 
-      Nam đứng dậy, đi đến cửa kính nhìn ra ngoài. Bên ngoài vẫn là con phố quen thuộc. Người đi làm về, hàng quán bắt đầu đông khách, tiếng xe máy chạy ngoài đường nghe chẳng khác gì mọi ngày. Vậy mà chẳng hiểu sao tôi lại có cảm giác buổi chiều hôm ấy trôi nhanh hơn bình thường. Ông Cẩn cầm lấy chiếc kẹp, cất lại vào túi vải rồi mới đứng dậy nói:
 
-      •	Hai cậu nghỉ một lát đi, bôn ba cả ngày cũng cần hồi sức.
+      - Ừ, tới đó tầm năm, sáu giờ tối là vừa.
+
+
+      Nam đứng dậy, đi đến cửa kính nhìn ra ngoài. Bên ngoài vẫn là con phố quen
+      thuộc. Người đi làm về, hàng quán bắt đầu đông khách, tiếng xe máy chạy
+      ngoài đường nghe chẳng khác gì mọi ngày. Vậy mà chẳng hiểu sao tôi lại có
+      cảm giác buổi chiều hôm ấy trôi nhanh hơn bình thường. Ông Cẩn cầm lấy chiếc
+      kẹp, cất lại vào túi vải rồi mới đứng dậy nói:
+
+
+      - Hai cậu nghỉ một lát đi, bôn ba cả ngày cũng cần hồi sức.
+
 
       Nam vẫn ngồi yên, nó bỗng cất tiếng hỏi:
 
-      •	Bác Cẩn.
 
-      •	Gì?
+      - Bác Cẩn.
 
-      •	Nếu chuyện này thực sự liên quan đến cái chết của Hương...
+
+      - Gì?
+
+
+      - Nếu chuyện này thực sự liên quan đến cái chết của Hương...
+
 
       Nam dừng lại, hai bàn tay siết chặt đến nổi cả gân xanh.
 
-      •	Bác phải nói cho cháu biết.
+
+      - Bác phải nói cho cháu biết.
+
 
       Ông Cẩn nhìn nó rất lâu rồi mới gật đầu.
 
-      •	Nếu tôi tìm được câu trả lời, tôi sẽ nói.
 
-      Ông quay người bước vào phía trong, nhưng đi được vài bước lại dừng lại, ông không quay đầu mà chỉ nói:
+      - Nếu tôi tìm được câu trả lời, tôi sẽ nói.
 
-      À, còn một chuyện, đêm nay đúng ngày rằm, nếu đã quyết xăm thì tốt nhất làm luôn trong đêm nay.
+
+      Ông quay người bước vào phía trong, nhưng đi được vài bước lại dừng lại, ông
+      không quay đầu mà chỉ nói:
+
+
+      - À, còn một chuyện. Đêm nay đúng ngày rằm, nếu đã quyết xăm thì tốt nhất
+      làm luôn trong đêm nay.
+
 
       Nam khựng lại, ngẩng đầu nhìn tờ lịch treo cạnh quầy.
 
-      •	Rằm tháng mười một à?
+
+      - Rằm tháng mười một à?
+
 
       Tôi cũng nhìn theo. Ngày mười lăm được khoanh bằng một vòng mực đỏ.
 
-      •	Ừ.
 
-      Lúc ấy tôi mới nhớ từ sáng đến giờ trên đường đã gặp không ít người mang hương hoa, vàng mã ra nghĩa địa. Ở quê tôi, những tháng cuối năm vốn là mùa người ta sửa sang mồ mả, có nhà còn xem ngày sang cát cho người thân. Cứ độ trời bắt đầu rét sâu là bên ngoài cánh đồng thỉnh thoảng lại xuất hiện một ngôi mộ vừa được phát cỏ sạch sẽ, chân nhang còn đỏ. Hồi nhỏ tôi từng theo bố ra nghĩa địa thắp hương cho ông bà tổ tiên vài lần. Người lớn trong làng vẫn thường dặn, chuyện mồ mả không giống những việc khác. Đất đã chôn người xuống rồi thì muốn đào lên cũng phải xem ngày, xem giờ, trước khi động cuốc còn phải thắp hương xin phép. Có những ngôi mộ nằm dưới đất mấy chục năm, con cháu muốn sang cát cũng chẳng dám tùy tiện đụng vào. Tôi trước giờ chẳng tin mấy chuyện ấy. Người chết đã chết, còn ngày tốt ngày xấu chẳng qua cũng chỉ là cách người sống tự khiến mình yên tâm hơn mà thôi. Thế nhưng chẳng hiểu sao tối hôm ấy, ngồi trong tiệm xăm của ông Cẩn, nhìn vòng mực đỏ khoanh quanh con số mười lăm trên tờ lịch, tôi lại thấy trong lòng hơi bất an.
+      - Ừ.
+
+
+      Lúc ấy tôi mới nhớ từ sáng đến giờ trên đường đã gặp không ít người mang
+      hương hoa, vàng mã ra nghĩa địa. Ở quê tôi, những tháng cuối năm vốn là mùa
+      người ta sửa sang mồ mả, có nhà còn xem ngày sang cát cho người thân. Cứ độ
+      trời bắt đầu rét sâu là bên ngoài cánh đồng thỉnh thoảng lại xuất hiện một
+      ngôi mộ vừa được phát cỏ sạch sẽ, chân nhang còn đỏ. Hồi nhỏ tôi từng theo
+      bố ra nghĩa địa thắp hương cho ông bà tổ tiên vài lần. Người lớn trong làng
+      vẫn thường dặn, chuyện mồ mả không giống những việc khác. Đất đã chôn người
+      xuống rồi thì muốn đào lên cũng phải xem ngày, xem giờ, trước khi động cuốc
+      còn phải thắp hương xin phép. Có những ngôi mộ nằm dưới đất mấy chục năm,
+      con cháu muốn sang cát cũng chẳng dám tùy tiện đụng vào. Tôi trước giờ chẳng
+      tin mấy chuyện ấy. Người chết đã chết, còn ngày tốt ngày xấu chẳng qua cũng
+      chỉ là cách người sống tự khiến mình yên tâm hơn mà thôi. Thế nhưng chẳng
+      hiểu sao chiều hôm ấy, ngồi trong tiệm xăm của ông Cẩn, nhìn vòng mực đỏ
+      khoanh quanh con số mười lăm trên tờ lịch, tôi lại thấy trong lòng hơi bất
+      an.
+
 
       Nam vẫn nhìn ông Cẩn thắc mắc:
 
-      •	Nhưng rằm thì liên quan gì đến chuyện xăm của cháu?
 
-      Ông Cẩn không trả lời ngay, ông cúi xuống cất chiếc kẹp vào túi vải, động tác chậm rãi như đang cân nhắc có nên nói hay không. Một lúc sau ông mới đáp:
+      - Nhưng rằm thì liên quan gì đến chuyện xăm của cháu?
 
-      •	Không phải cứ ngày rằm là xăm được chỉ là phiên chợ tôi cần đi vừa đúng vào đêm nay. Mấy thứ dùng cho hình xăm của cậu, chợ thường không có.
 
-      •	Thế qua đêm nay thì sao bác?
+      Ông Cẩn không trả lời ngay, ông cúi xuống cất chiếc kẹp vào túi vải, động
+      tác chậm rãi như đang cân nhắc có nên nói hay không. Một lúc sau ông mới
+      đáp:
 
-      •	Phải đợi phiên khác, một tháng nữa cậu có đợi nổi không?
+
+      - Không phải cứ ngày rằm là xăm được, chỉ là phiên chợ tôi cần đi vừa đúng
+      vào đêm nay. Mấy thứ dùng cho hình xăm của cậu, chợ thường không có.
+
+
+      - Thế qua đêm nay thì sao bác?
+
+
+      - Phải đợi phiên khác, một tháng nữa cậu có đợi nổi không?
+
 
       Nam lắc đầu thở dài đáp:
 
-      •	Thế chút nữa mình khởi hành luôn thôi bác nhỉ?
+
+      - Thế chút nữa mình khởi hành luôn thôi bác nhỉ?
   - title: Xin phép thổ địa
     body: >-
       Ở quê tôi, người ta vẫn bảo đi đâu cũng phải biết đất ấy có chủ, mỗi vùng

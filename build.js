@@ -350,7 +350,10 @@ for (const s of STORIES) {
     const route = R.chapter(s, c.n);
     const L = linker(route);
     const gated = isGated(s, c.n);
-    const tokens = marked.lexer(c.body);
+    // Mỗi dòng là một đoạn văn; dòng thoại bắt đầu bằng "-", "–", "—" hoặc "•" hiển thị bằng gạch ngang kiểu sách in (không thành danh sách chấm tròn)
+    const prose = c.body.replace(/\r/g, "").split(/\n+/).map(l => l.trim()).filter(Boolean)
+      .map(l => l.replace(/^[-–—•*]\s*(?=\S)/, "\u2013 ")).join("\n\n");
+    const tokens = marked.lexer(prose);
     const blocks = tokens.filter(t => t.type !== "space").map(t => marked.parser(Object.assign([t], { links: tokens.links })));
     const freeN = gated ? Math.min(2, Math.max(1, Math.floor(blocks.length / 4))) : blocks.length;
     const free = blocks.slice(0, freeN), locked = blocks.slice(freeN);
