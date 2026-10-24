@@ -44,13 +44,19 @@ const STORIES = fs.readdirSync(path.join(C, "stories")).filter(f => f.endsWith("
   const slug = slugify(path.basename(f, ".md"));
   const chapters = (data.chapters || []).filter(c => c && c.title).map((c, i) => ({
     n: i + 1, title: String(c.title), body: String(c.body || ""), mins: mins(c.body), words: words(c.body)
-  }));
+  })).map(c => {
+    // Tên chương chỉ là số ("21", "Chương 21") thì coi như chưa đặt tên, tránh hiện "Chương 21: 21"
+    c.name = /^\s*(chương|chuong|chap(ter)?)?\s*\d+\s*[:.\-]?\s*$/i.test(c.title) ? "" : c.title.trim();
+    c.label = c.name ? `Chương ${c.n}: ${c.name}` : `Chương ${c.n}`;
+    return c;
+  });
   if (!chapters.length) return null;
   const genre = GENRES.find(g => g.slug === slugify(data.genre)) || { name: data.genre || "Khác", slug: slugify(data.genre || "khac") };
   return {
     slug, title: String(data.title || slug), genre, author: data.author || S.defaultAuthor || "Emma",
     description: String(data.description || ""), keywords: data.keywords || [], cover: data.cover || "",
     c1: data.color1 || "#1E2A4A", c2: data.color2 || "#4A6FA5", status: data.status || "Đang ra",
+    aliases: [].concat(data.aliases || []).map(slugify).filter(a => a && a !== slug),
     featured: !!data.featured, gate: data.gate !== false, date: toDate(data.date), chapters,
     mins: chapters.reduce((a, c) => a + c.mins, 0)
   };
@@ -319,7 +325,7 @@ for (const s of STORIES) {
     </section>
     <h2 class="section-title" id="chuong">Danh sách chương <small>${s.chapters.length} chương</small></h2>
     <ol class="chapters" data-slug="${s.slug}">${s.chapters.map(c =>
-      `<li><a href="${L(R.chapter(s, c.n))}" data-n="${c.n}"><span class="n">${String(c.n).padStart(2, "0")}</span><span class="t">${esc(c.title)}</span><span class="r">${isGated(s, c.n) ? `<span class="lock" title="Mở khóa bằng quảng cáo">${ICON.lock}</span>` : ""}${c.mins} phút</span></a></li>`).join("")}</ol>
+      `<li><a href="${L(R.chapter(s, c.n))}" data-n="${c.n}"><span class="n">${String(c.n).padStart(2, "0")}</span><span class="t">${esc(c.name || `Chương ${c.n}`)}</span><span class="r">${isGated(s, c.n) ? `<span class="lock" title="Mở khóa bằng quảng cáo">${ICON.lock}</span>` : ""}${c.mins} phút</span></a></li>`).join("")}</ol>
     ${adSlot("slotEndChapter", "ad-inline", "Responsive")}
   </div>${sidebar(L)}</div>`;
   write(route, layout({
@@ -329,7 +335,7 @@ for (const s of STORIES) {
       author: { "@type": "Person", name: s.author }, genre: s.genre.name, description: s.description,
       dateModified: s.date, keywords: s.keywords.join(", ") || undefined, image: s.cover ? abs(s.cover.replace(/^\//, "")) : undefined,
       publisher: { "@type": "Organization", name: S.siteName },
-      hasPart: s.chapters.map(c => ({ "@type": "Chapter", position: c.n, name: c.title, url: abs(R.chapter(s, c.n)) }))
+      hasPart: s.chapters.map(c => ({ "@type": "Chapter", position: c.n, name: c.label, url: abs(R.chapter(s, c.n)) }))
     }]
   }));
 }
@@ -383,11 +389,11 @@ for (const s of STORIES) {
     const body = `${crumbs(L, [[s.title, R.story(s)], [`Chương ${c.n}`]])}
   <article class="reader" id="reader" data-slug="${s.slug}" data-n="${c.n}" data-total="${s.chapters.length}">
     <a class="ch-label" href="${L(R.story(s))}">${esc(s.title)}</a>
-    <h1><span class="ch-num">Chương ${c.n}:</span> ${esc(c.title)}</h1>
+    <h1>${c.name ? `<span class="ch-num">Chương ${c.n}</span> ${esc(c.name)}` : `Chương ${c.n}`}</h1>
     <div class="sub">${c.words.toLocaleString("vi-VN")} chữ · khoảng ${c.mins} phút đọc · ${esc(s.author)}</div>
     <div class="toolbar">
       <label class="sr" for="chSel">Chọn chương</label>
-      <select id="chSel" class="ch-select" data-nav>${s.chapters.map(x => `<option value="${L(R.chapter(s, x.n))}"${x.n === c.n ? " selected" : ""}>Chương ${x.n}: ${esc(x.title)}</option>`).join("")}</select>
+      <select id="chSel" class="ch-select" data-nav>${s.chapters.map(x => `<option value="${L(R.chapter(s, x.n))}"${x.n === c.n ? " selected" : ""}>${esc(x.label)}</option>`).join("")}</select>
       <span class="sep"></span>
       <button class="tool" type="button" id="fsDown" aria-label="Giảm cỡ chữ">A−</button>
       <button class="tool" type="button" id="fsUp" aria-label="Tăng cỡ chữ">A+</button>
@@ -411,14 +417,14 @@ for (const s of STORIES) {
   </section>
   ${gated ? `<script type="application/json" id="ekc-gate">${JSON.stringify(gateCfg).replace(/</g, "\\u003c")}</script>` : ""}`;
     const ld = {
-      "@context": "https://schema.org", "@type": "Chapter", name: `Chương ${c.n}: ${c.title}`, position: c.n, url: abs(route), inLanguage: "vi",
+      "@context": "https://schema.org", "@type": "Chapter", name: c.label, position: c.n, url: abs(route), inLanguage: "vi",
       author: { "@type": "Person", name: s.author }, dateModified: s.date,
       isPartOf: { "@type": "Book", name: s.title, url: abs(R.story(s)) },
       isAccessibleForFree: !gated
     };
     if (gated) ld.hasPart = { "@type": "WebPageElement", isAccessibleForFree: false, cssSelector: ".locked-part" };
     write(route, layout({
-      route, title: `${s.title} – Chương ${c.n}: ${c.title}`, description: cut(c.body), ogType: "article", image: s.cover, body, prev, next,
+      route, title: `${s.title} – ${c.label}`, description: cut(c.body), ogType: "article", image: s.cover, body, prev, next,
       jsonld: [ldBreadcrumb([[s.title, R.story(s)], [`Chương ${c.n}`, route]]), ld]
     }));
   }
@@ -465,6 +471,12 @@ write("404.html", layout({
   write("sitemap.xml", `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls.map(([u, d, p]) => `  <url><loc>${esc(abs(u))}</loc><lastmod>${d}</lastmod><priority>${p}</priority></url>`).join("\n")}\n</urlset>\n`);
   write("robots.txt", `User-agent: *\nAllow: /\nDisallow: /admin/\nDisallow: /tim-kiem/\n\nSitemap: ${abs("sitemap.xml")}\n`);
   write("feed.xml", `<?xml version="1.0" encoding="UTF-8"?>\n<rss version="2.0"><channel><title>${esc(S.siteName)}</title><link>${esc(abs(""))}</link><description>${esc(S.description)}</description><language>vi</language>\n${STORIES.slice(0, 30).map(s => `<item><title>${esc(s.title)}</title><link>${esc(abs(R.story(s)))}</link><guid>${esc(abs(R.story(s)))}</guid><pubDate>${new Date(s.date + "T08:00:00+07:00").toUTCString()}</pubDate><description>${esc(s.description)}</description></item>`).join("\n")}\n</channel></rss>\n`);
+  // Đường dẫn cũ của truyện (trường "aliases") tự chuyển 301 sang đường dẫn mới
+  const redirects = STORIES.flatMap(s => s.aliases.flatMap(a => [
+    `/truyen/${a}  /truyen/${s.slug}/  301!`,
+    `/truyen/${a}/*  /truyen/${s.slug}/:splat  301!`
+  ]));
+  if (redirects.length && !PREVIEW) fs.writeFileSync(path.join(OUT, "_redirects"), redirects.join("\n") + "\n");
   if (A.adsenseClient) write("ads.txt", `google.com, ${A.adsenseClient.replace(/^ca-/, "")}, DIRECT, f08c47fec0942fa0\n`);
 }
 

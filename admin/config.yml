@@ -73,6 +73,7 @@ collections:
       - { label: "Bật mở khóa bằng quảng cáo", name: gate, widget: boolean, default: true, hint: "Tắt nếu muốn truyện này đọc tự do hoàn toàn" }
       - { label: "Ngày cập nhật", name: date, widget: datetime, format: "YYYY-MM-DD", date_format: "DD/MM/YYYY", time_format: false }
       - { label: "Bản nháp (ẩn khỏi website)", name: draft, widget: boolean, default: false }
+      - { label: "Đường dẫn cũ (tự chuyển hướng)", name: aliases, widget: list, required: false, hint: "Chỉ dùng khi đổi đường dẫn truyện. Ghi phần cũ sau /truyen/, ví dụ: can-ho-404" }
       - label: "Các chương"
         name: chapters
         widget: list
@@ -81,7 +82,7 @@ collections:
         summary: "{{fields.title}}"
         label_singular: "chương"
         fields:
-          - { label: "Tên chương", name: title, widget: string }
+          - { label: "Tên chương", name: title, widget: string, hint: "Đặt tên gợi tò mò, ví dụ: Bọc vải đỏ dưới góc giường. Website tự thêm chữ “Chương N”." }
           - { label: "Nội dung chương", name: body, widget: markdown, buttons: ["bold", "italic", "quote"], editor_components: [], hint: "Mỗi đoạn văn cách nhau một dòng trống." }
 
   # ---------------- TRANG TĨNH ----------------

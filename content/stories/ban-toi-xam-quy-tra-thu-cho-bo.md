@@ -20,8 +20,10 @@ featured: true
 gate: true
 date: 2026-10-24
 draft: false
+aliases:
+  - can-ho-404
 chapters:
-  - title: "1"
+  - title: Mùi bồ kết sau lưng xe
     body: >-
       Có người hỏi tôi, nếu được quay lại hơn hai mươi năm trước, tôi sẽ thay
       đổi điều gì? Tôi chẳng cần suy nghĩ mà đáp rằng tôi sẽ giữ chân thằng Nam
@@ -306,7 +308,7 @@ chapters:
 
 
       Nó chẳng buồn đáp, tôi cũng không để ý nữa, vít ga chạy đi. Xe chạy được một đoạn chẳng hiểu từ đâu thoảng tới mùi bồ kết, thoáng qua rồi mất.
-  - title: "2"
+  - title: Ngày không nên cầm kim
     body: >-
       Có người bảo nếu một người vừa mới chết mà vẫn còn vương vấn người sống,
       thứ rời đi cuối cùng... là mùi hương quen thuộc nhất của người đó. Hồi ấy
@@ -536,7 +538,7 @@ chapters:
 
 
       - Trên người cậu còn dính mùi khói nhang, hôm nay không phải ngày đẹp để cầm kim đâu.
-  - title: "3"
+  - title: Hồn hay là quỷ
     body: >-
       Người xưa truyền tai nhau một câu: dao bén phải chọn giờ mài, hương thiêng
       phải chọn giờ thắp, còn cầm kim đâm vào da thịt... tuyệt đối không được
@@ -924,7 +926,7 @@ chapters:
 
 
       Đúng lúc ba chữ cuối cùng vừa dứt cánh cửa tiệm xăm tự dưng đóng sập lại, ba nén nhang trên bàn thờ đồng loạt tắt phụt. Cả căn phòng chìm trong bóng tối chỉ còn mùi bồ kết vẫn quanh quẩn đâu đó như có một người phụ nữ đang đứng mỉm cười ngay sau lưng chúng tôi.
-  - title: "4"
+  - title: Chiếc gương đồng nứt đôi
     body: >-
       Ông nội tôi từng bảo người chết không đáng sợ. Đáng sợ là người chết mà
       trong lòng vẫn còn oán, oán càng nặng thì đường xuống dưới âm càng xa, đến
@@ -1283,7 +1285,7 @@ chapters:
 
 
       - Nó… đã nghe thấy rồi.
-  - title: "5"
+  - title: Đừng đáp tiếng gọi thứ nhất
     body: >-
       Ở quê tôi, người già có một điều kiêng lạ lắm. Đêm khuya nghe ai gọi tên
       mình cũng phải đợi tiếng thứ ba mới được đáp cho chắc. Họ bảo có những
@@ -1675,7 +1677,7 @@ chapters:
 
 
       - Bác vừa gặp Hương thật ạ?
-  - title: "6"
+  - title: Ngày thứ bảy
     body: >-
       Ở quê tôi, người già vẫn bảo sau khi chết, hồn người ta chưa đi ngay mà
       còn quanh quẩn dương gian đủ bảy ngày. Nếu còn điều gì chưa buông được họ
@@ -1916,7 +1918,7 @@ chapters:
 
 
       Hai bàn tay tôi run lên. Một bên là lời dặn của ông Cẩn, một bên là giọng nói mang theo cả những tiếc nuối tôi đã chôn giấu suốt bao năm. Tôi nhắm chặt mắt, hít một hơi thật sâu, cố ép mình tin vào cây kim trong tay. Nhưng bàn chân tôi lại chậm rãi nhấc lên rồi vô thức bước về phía có tiếng gọi.
-  - title: "7"
+  - title: Bị ma dắt vào nghĩa địa
     body: >-
       Ở quê tôi, người già vẫn truyền nhau rằng người sống muốn qua đất của
       người âm thì cũng phải có lễ. Không cần mâm cao cỗ đầy, chỉ cần chút tiền
@@ -2097,7 +2099,7 @@ chapters:
 
 
       Chỉ trong chưa đầy một ngày tôi đã gặp đủ thứ chuyện. Tiền thật hóa thành tiền âm phủ, tôi bị ma dắt vào nghĩa địa, những tiếng nói vang lên giữa bãi mộ rồi hai gói xôi còn nóng hổi bỗng hóa thành một đống thức ăn đã ôi thiu từ bao giờ. Nếu tất cả những chuyện ấy xảy ra trước ngày hôm qua, có lẽ tôi đã cười nhạt, cho rằng ai đó đang bày trò hù dọa mình. Giống như hồi nhỏ mỗi lần ông nội ngồi bên bếp rơm kể chuyện ma, chuyện quỷ nhập tràng, chuyện người đi lạc vào chợ âm... tôi đều nghe cho vui rồi quên ngay sau đó. Tôi vốn chưa từng tin trên đời này thật sự có ma thế nhưng từ lúc bước chân vào tiệm xăm của ông Cẩn, niềm tin ấy bắt đầu lung lay. Có những thứ đang xảy ra ngay trước mắt tôi, tôi nhìn thấy được, chạm vào được nhưng lại không tài nào giải thích nổi.
-  - title: "8"
+  - title: Bọc vải đỏ dưới góc giường
     body: >-
       Các cụ ở quê tôi thường nói nhà có bùa, người chẳng yên. Ông nội tôi từng
       bảo, bùa yểm thường không treo trước cửa hay dán lên tường như trong phim
@@ -2407,7 +2409,7 @@ chapters:
 
 
       Nó hít một hơi thật sâu rồi dùng mũi dao cắt đứt sợi chỉ. Lớp vải vừa bung ra một mùi tanh ngai ngái lập tức xộc lên. Ở giữa bọc vải là một hình nhân nhỏ bằng bàn tay, được nặn bằng thứ đất sét đen sì đã khô cứng. Quanh cổ hình nhân quấn từng sợi tóc dài của phụ nữ, trên ngực cắm xiên một cây kim gỉ sét. Bên dưới còn gấp chung một mảnh giấy vàng đã úa, kín đặc những nét mực đỏ ngoằn ngoèo như bùa chú. Tôi cảm giác cả người mình tê dại, ba năm sống trong căn phòng này, ngay dưới góc tường đầu giường của Nam bị chôn một thứ quỷ quái như thế vậy mà chúng tôi không hề hay biết.
-  - title: "9"
+  - title: Căn phòng trọ giá rẻ
     body: >-
       Các cụ vẫn bảo mua trâu xem vó, lấy vợ xem tông. Còn đám sinh viên nghèo
       chúng tôi thì truyền nhau một câu khác: thuê trọ phải hỏi người ở trước.
@@ -2671,7 +2673,7 @@ chapters:
 
 
       Bà vừa nói vừa đứng dậy. Lúc bước ra cửa, bà còn ngoái đầu nhìn vào căn phòng thêm một lần rồi mới vội vàng đi xuống cầu thang. Tiếng dép nhựa lẹp xẹp nhỏ dần, chẳng mấy chốc cả dãy trọ lại chìm vào im lặng. …
-  - title: "10"
+  - title: Tấm ảnh cũ không biết nói dối
     body: >-
       Các cụ vẫn bảo ảnh chụp thì không biết nói dối. Người ta có thể thay tên,
       đổi họ, chuyển đến một nơi khác để sống nhưng tấm ảnh thì vẫn giữ nguyên
@@ -2923,7 +2925,7 @@ chapters:
 
 
       Chiếc Dream lao ra khỏi con ngõ. Ánh đèn pha vừa quét qua lan can tầng hai, tôi cứ ngỡ có một đứa bé đang ngồi thu mình ở đó, hai chân đung đưa ngoài thành lan can. Đến khi tôi giật mình ngoái đầu lại thì chỉ còn chiếc bóng đèn vàng lay lắt trong gió.
-  - title: "11"
+  - title: Que hương cháy giữa trời mưa
     body: >-
       Các cụ vẫn bảo, nhà nào có người chết mà để bỏ hoang lâu ngày thì lạ lắm.
       Ban đầu chỉ là cỏ mọc đầy sân, lá rụng không ai quét, mái hiên giăng kín
@@ -3207,7 +3209,7 @@ chapters:
       - Có người mới thắp hương về à?
 
       Tôi buột miệng nói, rồi thấy có gì đó không đúng lắm, miếu này giống miếu bỏ hoang hơn.
-  - title: "12"
+  - title: Ngôi miếu dưới gốc gạo
     body: >-
       Hồi còn nhỏ, tôi từng nghe ông nội dặn một điều rất lạ. Đi đường mà gặp
       mưa gió thì cứ ghé nhà dân xin trú nhờ, còn nếu trước mặt là một ngôi miếu
@@ -3386,7 +3388,7 @@ chapters:
 
 
       Nói xong, ông cúi xuống nhặt chiếc chổi tre dựng sát vách, lặng lẽ quét những chiếc lá ướt vừa bị gió tạt vào trong miếu. Những lời vừa rồi được ông nói ra nhẹ bẫng như đang kể một chuyện rất bình thường thế nhưng không hiểu sao sống lưng tôi lại lạnh buốt.
-  - title: "13"
+  - title: Thứ mang ra từ trong miếu
     body: >-
       Hồi nhỏ, ông nội tôi từng dặn, ở quê có những ngôi miếu chẳng ai biết thờ
       ai thì tốt nhất đừng tò mò. Ông bảo nếu có vô tình nhặt được thứ gì trong
@@ -3735,7 +3737,7 @@ chapters:
 
 
       - Chúng ta phải quay về Hà Nội, ngay bây giờ.
-  - title: "14"
+  - title: Cái tên trong chiếc radio
     body: >-
       Hồi nhỏ, tôi từng nghe ông nội dặn rằng chuyện của người chết, nhất là
       người chết trẻ, chết oan, người sống tốt nhất đừng đem ra bàn tán nhiều.
@@ -4041,7 +4043,7 @@ chapters:
 
 
       Tôi nhìn chiếc radio, cổ họng khô khốc. Không hiểu vì sao, lúc ấy tôi lại có cảm giác cái tên vừa được gọi ra không phải là một phần của bản tin, nó giống như có ai đó vừa đứng ngay bên cạnh, khẽ gọi tên Hương.
-  - title: "15"
+  - title: Đêm rằm tháng Mười Một
     body: >-
       Ở quê tôi cứ vào những tháng cuối năm là người ta lại bắt đầu lo chuyện mồ
       mả. Nhà thì sửa sang phần mộ tổ tiên, nhà thì xem ngày sang cát cho người
@@ -4410,7 +4412,7 @@ chapters:
       Nam lắc đầu thở dài đáp:
 
       •	Thế chút nữa mình khởi hành luôn thôi bác nhỉ?
-  - title: "16"
+  - title: Xin phép thổ địa
     body: >-
       Ở quê tôi, người ta vẫn bảo đi đâu cũng phải biết đất ấy có chủ, mỗi vùng
       đều có thổ địa riêng cai quản. Người sống bình thường đi qua thì chẳng nói
@@ -4779,7 +4781,7 @@ chapters:
 
 
       Nam nhìn về phía nén nhang theo lời tôi nói, nó im lặng kéo tôi đi theo ông Cẩn. Tôi cũng không hỏi nữa nhưng từ lúc ấy trong lòng cứ thấy có gì đó không yên.
-  - title: "17"
+  - title: Phiên chợ Âm Phủ
     body: >-
       Nhìn bên ngoài chợ Âm Phủ chẳng khác gì một phiên chợ quê họp muộn nhưng
       càng đi sâu vào trong, tôi càng gặp những chuyện không sao giải thích
@@ -5060,7 +5062,7 @@ chapters:
 
 
       Giọng ông rất bình thường nhưng dứt khoát đến mức tôi không dám cãi. Tôi quay đầu nhìn bà lão lần cuối. Đúng lúc ấy, bà cũng ngẩng lên, ánh mắt hai chúng tôi chạm nhau. Bà không nói gì, chỉ nhìn tôi một lúc rồi cúi xuống tiếp tục lau lá. Tôi đi theo Nam và ông Cẩn nhưng trong đầu vẫn không ngừng nghĩ đến bà. Càng lúc tôi càng thấy phiên chợ này thật quái lạ.
-  - title: "18"
+  - title: Người quen giữa chợ âm
     body: >-
       Trước đêm hôm ấy, tôi vẫn nghĩ người chết rồi thì chỉ còn có thể gặp lại
       trong ảnh hoặc trong những giấc mơ. Ông Tư hàng xóm nhà tôi mất đã gần
@@ -5369,7 +5371,7 @@ chapters:
 
 
       Tôi cố hét lên nhưng lần này cổ họng tôi chỉ bật ra được một tiếng khàn khàn. Cả người tôi trượt khỏi bờ, nước lạnh lập tức dâng phủ cả đầu tôi. Tôi tuyệt vọng đưa tay bám lấy rễ cây lần cuối nhưng những ngón tay đã bắt đầu trượt. Tôi nhìn lên bờ, ánh đèn dầu xa dần, mọi thứ trước mắt bắt đầu nhòe đi. Bàn tay tôi trượt khỏi rễ cây, tôi cố bám lại lần cuối nhưng những ngón tay đã mất hết sức. Nước lạnh lập tức phủ qua đầu. Trong khoảnh khắc ấy, tôi chỉ kịp nghĩ một điều, lần này mình chết thật rồi.
-  - title: "19"
+  - title: Hoa đăng trên sông
     body: >-
       Ông nội tôi ngày trước từng dặn, đèn người ta thả xuống sông cho người đã
       khuất thì đừng thấy đẹp mà tiện tay vớt lên. Mỗi ngọn đèn đều có người
@@ -5806,7 +5808,7 @@ chapters:
 
 
       Nói xong ông Cẩn đứng dậy, đi vào căn phòng nhỏ bên trong. Nam nhìn tôi, tôi nhìn Nam, cả hai đều đã mệt rã rời nhưng chẳng đứa nào nhắc đến chuyện về nghỉ nữa. Tôi liếc đồng hồ, đã quá nửa đêm. Chuyến đi Bắc Ninh tưởng như đến đây là xong, nào ngờ những thứ ông Cẩn mang về từ Chợ Âm Phủ lại chỉ vừa được đặt lên bàn. Lúc ấy tôi vẫn chưa biết hình xăm mà ông chuẩn bị làm cho Nam rốt cuộc là thứ gì.
-  - title: "20"
+  - title: Không phải Quan Công
     body: >-
       Hồi những năm đầu 2000, xăm hình vẫn chưa phổ biến như bây giờ. Người ta
       thường xăm Quan Công, Phật, hổ, rồng... Những hình ấy đi đâu cũng dễ gặp,
@@ -6270,7 +6272,7 @@ chapters:
 
 
       - Hổ thì lấy cái dữ để át vía yếu, rồng thì lấy uy, lấy khí. Mấy hình ấy đều là để bảo vệ người sống. Còn trường hợp của cậu cần thứ dữ hơn nhiều!
-  - title: '21'
+  - title: Quỷ linh nhi
     body: >-
       Người già vẫn thường bảo, trẻ con chết yểu oán khí mạnh lắm. Nhất là những
       đứa chưa kịp chào đời, không có ngày giỗ, cũng chẳng có người thờ cúng, lại
