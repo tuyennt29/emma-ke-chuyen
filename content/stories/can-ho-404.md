@@ -1,5 +1,5 @@
 ---
-title: THẰNG BẠN TÔI XĂM QUỶ TRẢ THÙ CHO BỒ
+title: Thằng bạn tôi xăm quỷ trả thù cho bồ
 genre: truyen-ma
 author: Nguyễn Mỹ Hạnh
 description: Có người hỏi tôi, nếu được quay lại hơn hai mươi năm trước, tôi sẽ
