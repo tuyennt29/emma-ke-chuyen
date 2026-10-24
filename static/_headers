@@ -1,0 +1,8 @@
+/assets/*
+  Cache-Control: public, max-age=604800
+
+/uploads/*
+  Cache-Control: public, max-age=604800
+
+/admin/*
+  X-Robots-Tag: noindex

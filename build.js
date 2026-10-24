@@ -22,7 +22,9 @@ const C = path.join(ROOT, "content");
 const readJSON = f => JSON.parse(fs.readFileSync(path.join(C, f), "utf8"));
 const S = readJSON("settings.json");
 S.ads = S.ads || {}; S.gate = S.gate || {}; S.affiliate = S.affiliate || []; S.videoAds = S.videoAds || [];
-const SITE_URL = (process.env.URL || S.siteUrl || "").replace(/\/$/, "");
+// Cloudflare Pages: dùng tên miền trong Cài đặt; Netlify: dùng địa chỉ Netlify cấp; có thể ép bằng biến SITE_URL
+const ON_CF = !!process.env.CF_PAGES;
+const SITE_URL = (process.env.SITE_URL || (ON_CF ? S.siteUrl : (process.env.URL || S.siteUrl)) || "").replace(/\/$/, "");
 const GENRES = (readJSON("genres.json").genres || []).map(g => ({ ...g, slug: slugify(g.slug || g.name) }));
 
 function slugify(s) {
@@ -105,7 +107,15 @@ function copyDir(src, dst) {
 }
 copyDir(path.join(ROOT, "static"), OUT);
 copyDir(path.join(ROOT, "assets"), path.join(OUT, "assets"));
-if (!PREVIEW) copyDir(path.join(ROOT, "admin"), path.join(OUT, "admin"));
+if (!PREVIEW) {
+  copyDir(path.join(ROOT, "admin"), path.join(OUT, "admin"));
+  // Admin dùng đăng nhập của nơi đang chạy web: Netlify (api.netlify.com) hoặc Cloudflare (functions/api/auth)
+  const cfgFile = path.join(OUT, "admin", "config.yml");
+  let cfg = fs.readFileSync(cfgFile, "utf8")
+    .replace(/^site_url:.*$/m, `site_url: ${SITE_URL}`).replace(/^display_url:.*$/m, `display_url: ${SITE_URL}`);
+  if (ON_CF) cfg = cfg.replace(/^(\s*)base_url:.*$/m, `$1base_url: ${SITE_URL}`).replace(/^(\s*)auth_endpoint:.*$/m, "$1auth_endpoint: api/auth");
+  fs.writeFileSync(cfgFile, cfg);
+}
 const ver = f => crypto.createHash("md5").update(fs.readFileSync(path.join(ROOT, "assets", f))).digest("hex").slice(0, 8);
 const V = { css: ver("style.css"), js: ver("app.js") };
 
@@ -485,8 +495,8 @@ write("404.html", layout({
   write("feed.xml", `<?xml version="1.0" encoding="UTF-8"?>\n<rss version="2.0"><channel><title>${esc(S.siteName)}</title><link>${esc(abs(""))}</link><description>${esc(S.description)}</description><language>vi</language>\n${STORIES.slice(0, 30).map(s => `<item><title>${esc(s.title)}</title><link>${esc(abs(R.story(s)))}</link><guid>${esc(abs(R.story(s)))}</guid><pubDate>${new Date(s.date + "T08:00:00+07:00").toUTCString()}</pubDate><description>${esc(s.description)}</description></item>`).join("\n")}\n</channel></rss>\n`);
   // Đường dẫn cũ của truyện (trường "aliases") tự chuyển 301 sang đường dẫn mới
   const redirects = STORIES.flatMap(s => s.aliases.flatMap(a => [
-    `/truyen/${a}  /truyen/${s.slug}/  301!`,
-    `/truyen/${a}/*  /truyen/${s.slug}/:splat  301!`
+    `/truyen/${a}  /truyen/${s.slug}/  301`,
+    `/truyen/${a}/*  /truyen/${s.slug}/:splat  301`
   ]));
   if (redirects.length && !PREVIEW) fs.writeFileSync(path.join(OUT, "_redirects"), redirects.join("\n") + "\n");
   if (A.adsenseClient) write("ads.txt", `google.com, ${A.adsenseClient.replace(/^ca-/, "")}, DIRECT, f08c47fec0942fa0\n`);

@@ -86,3 +86,52 @@ npm run build            # tạo website trong thư mục dist/
 npm run admin-local      # cửa sổ 1: máy chủ admin nội bộ
 npx serve dist           # cửa sổ 2: mở http://localhost:3000/admin/
 ```
+
+---
+
+# Chuyển sang Cloudflare Pages + tên miền emmakechuyen.xyz
+
+Cloudflare Pages miễn phí, không tính tiền theo lượt cập nhật hay lượt đọc. Code đã sẵn sàng: web, sitemap, admin tự nhận biết đang chạy trên Cloudflare.
+
+## A. Đưa tên miền về Cloudflare
+1. Tạo tài khoản tại **dash.cloudflare.com** (gói Free).
+2. **Add a domain** → nhập `emmakechuyen.xyz` → chọn gói **Free**.
+3. Cloudflare đưa 2 **nameserver** (dạng `xxx.ns.cloudflare.com`). Vào trang quản lý tên miền ở nơi đã mua → mục **Nameservers / DNS** → chọn "Dùng nameserver tùy chỉnh" → dán 2 nameserver đó → Lưu.
+4. Chờ Cloudflare báo **Active** (thường 10 phút – vài giờ, tối đa 24 giờ).
+
+## B. Tạo website trên Cloudflare Pages
+1. **Workers & Pages → Create → Pages → Import an existing Git repository** → kết nối GitHub → chọn repo `emmakechuyen`.
+2. Cài đặt build:
+   - Framework preset: **None**
+   - Build command: `npm run build`
+   - Build output directory: `dist`
+3. **Save and Deploy**. Sau 1–2 phút có địa chỉ dạng `emmakechuyen.pages.dev`.
+
+## C. Gắn tên miền
+1. Trong project Pages → **Custom domains → Set up a custom domain** → nhập `emmakechuyen.xyz` → **Activate**.
+2. Làm thêm lần nữa với `www.emmakechuyen.xyz`.
+
+## D. Bật đăng nhập Admin trên Cloudflare
+1. GitHub → **Settings → Developer settings → OAuth Apps → New OAuth App** (tạo app MỚI, giữ nguyên app cũ):
+   - Homepage URL: `https://emmakechuyen.xyz`
+   - Authorization callback URL: `https://emmakechuyen.xyz/api/callback`
+2. Copy **Client ID**, tạo và copy **Client secret**.
+3. Cloudflare → project Pages → **Settings → Variables and Secrets → Add** (môi trường Production):
+   - `GITHUB_CLIENT_ID` = Client ID
+   - `GITHUB_CLIENT_SECRET` = Client secret (chọn **Encrypt**)
+4. **Deployments → Retry deployment** (hoặc nhờ Emma cập nhật) để áp dụng.
+5. Mở `https://emmakechuyen.xyz/admin/` → Login with GitHub.
+
+## E. Tắt Netlify (sau khi web .xyz chạy ổn)
+1. Netlify → project → **Project configuration → Build & deploy → Continuous deployment → Stop builds**. Từ đây không tốn credit nữa.
+2. Vài ngày sau, nếu mọi thứ ổn: **General → Delete project**.
+
+## F. Tùy chọn
+- Cloudflare Pages → **Settings → Builds → Branch control → Preview branches: None** nếu không cần bản xem trước cho bản nháp.
+- Đăng ký **Google Search Console** và **Google AdSense** bằng `emmakechuyen.xyz`.
+
+## Chế độ Bản nháp trong Admin
+Admin có thêm mục **Workflow** với 3 cột: *Drafts → In Review → Ready*.
+- Bấm **Save**: chỉ lưu nháp, web chưa thay đổi.
+- Kéo sang **Ready** rồi bấm **Publish**: web mới cập nhật.
+- Mẹo: soạn nhiều chương, nhiều truyện ở dạng nháp, rồi Publish một lượt.
