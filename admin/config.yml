@@ -121,12 +121,11 @@ collections:
             widget: object
             collapsed: true
             fields:
-              - { label: "Mã nhà xuất bản (ca-pub-…)", name: adsenseClient, widget: string, required: false }
-              - { label: "Slot banner đầu trang", name: slotTop, widget: string, required: false }
-              - { label: "Slot giữa chương", name: slotInChapter, widget: string, required: false }
-              - { label: "Slot cuối chương", name: slotEndChapter, widget: string, required: false }
-              - { label: "Slot cột phải", name: slotSidebar, widget: string, required: false }
-              - { label: "Slot trong cổng mở khóa", name: slotGate, widget: string, required: false }
+              - { label: "Mã nhà xuất bản (ca-pub-…)", name: adsenseClient, widget: string, required: false, hint: "Chỉ cần dạng ca-pub-1234567890123456. Dán cả thẻ meta cũng được, web tự lọc." }
+              - { label: "Slot banner đầu trang", name: slotTop, widget: string, required: false, hint: "Dãy số data-ad-slot (ví dụ 1234567890) của đơn vị quảng cáo. Bỏ trống nếu dùng Auto ads." }
+              - { label: "Slot giữa chương", name: slotInChapter, widget: string, required: false, hint: "Dãy số data-ad-slot (ví dụ 1234567890) của đơn vị quảng cáo. Bỏ trống nếu dùng Auto ads." }
+              - { label: "Slot cuối chương", name: slotEndChapter, widget: string, required: false, hint: "Dãy số data-ad-slot (ví dụ 1234567890) của đơn vị quảng cáo. Bỏ trống nếu dùng Auto ads." }
+              - { label: "Slot cột phải", name: slotSidebar, widget: string, required: false, hint: "Dãy số data-ad-slot (ví dụ 1234567890) của đơn vị quảng cáo. Bỏ trống nếu dùng Auto ads." }
           - label: "Cổng mở khóa chương"
             name: gate
             widget: object

@@ -34,12 +34,11 @@
   ],
   "tagline": "Nghe Emma kể chuyện",
   "ads": {
-    "adsenseClient": "<meta name=\"google-adsense-account\" content=\"ca-pub-5465874059342727\">",
-    "slotTop": "<meta name=\"google-adsense-account\" content=\"ca-pub-5465874059342727\">",
-    "slotInChapter": "<meta name=\"google-adsense-account\" content=\"ca-pub-5465874059342727\">",
-    "slotEndChapter": "<meta name=\"google-adsense-account\" content=\"ca-pub-5465874059342727\">",
-    "slotSidebar": "<meta name=\"google-adsense-account\" content=\"ca-pub-5465874059342727\">",
-    "slotGate": "<meta name=\"google-adsense-account\" content=\"ca-pub-5465874059342727\">"
+    "adsenseClient": "ca-pub-5465874059342727",
+    "slotTop": "",
+    "slotInChapter": "",
+    "slotEndChapter": "",
+    "slotSidebar": ""
   },
   "siteName": "Emma kể chuyện",
   "videoAds": [

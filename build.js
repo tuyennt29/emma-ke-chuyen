@@ -69,7 +69,8 @@ const PAGES = fs.readdirSync(path.join(C, "pages")).filter(f => f.endsWith(".md"
 
 /* Chương có cổng quảng cáo: từ chương startFrom, cứ every chương một lần (mặc định 3, 5, 7…) */
 const G = S.gate;
-const isGated = (story, n) => !!(G.enabled && story.gate && n >= (G.startFrom || 3) && (n - (G.startFrom || 3)) % (G.every || 2) === 0);
+const GATE_OK = S.affiliate.some(a => a && a.url) || S.videoAds.some(v => v && (v.youtubeId || v.videoUrl));
+const isGated = (story, n) => !!(GATE_OK && G.enabled && story.gate && n >= (G.startFrom || 3) && (n - (G.startFrom || 3)) % (G.every || 2) === 0);
 
 /* ---------------- tiện ích đường dẫn ---------------- */
 // route: đường dẫn thư mục từ gốc, ví dụ "truyen/abc/chuong-2/"
@@ -117,17 +118,25 @@ function write(route, html) {
 
 /* ---------------- quảng cáo ---------------- */
 const A = S.ads;
+// Chuẩn hóa mã AdSense: dán cả thẻ <meta>/<script> hay chỉ dán mã đều lấy đúng phần cần thiết
+A.adsenseClient = ((String(A.adsenseClient || "").match(/ca-pub-\d{10,20}/) || [""])[0]);
+for (const k of ["slotTop", "slotInChapter", "slotEndChapter", "slotSidebar"]) {
+  const v = String(A[k] || "");
+  A[k] = ((v.match(/data-ad-slot=["']?(\d{6,})/) || v.match(/^\s*(\d{6,})\s*$/) || [, ""])[1]);
+}
 function adSlot(key, cls, label) {
   const slot = A[key];
   if (A.adsenseClient && slot) {
     return `<div class="ad-wrap ${cls}"><div class="ad-label">Quảng cáo</div><ins class="adsbygoogle" style="display:block" data-ad-client="${esc(A.adsenseClient)}" data-ad-slot="${esc(slot)}" data-ad-format="auto" data-full-width-responsive="true"></ins><script>(adsbygoogle=window.adsbygoogle||[]).push({});</script></div>`;
   }
+  // Trên web thật: chưa có slot thì không hiện khung giữ chỗ (Auto ads của Google tự chèn nếu bật)
+  if (!PREVIEW) return "";
   return `<div class="ad ${cls}" aria-hidden="true"><div>Vị trí quảng cáo · ${label}<small>Thêm mã trong Admin → Cài đặt → Quảng cáo</small></div></div>`;
 }
 function affiliateBox(L) {
   if (!S.affiliate.length) return "";
   return `<div class="box"><h3>Gợi ý cho bạn đọc</h3><div class="aff">${S.affiliate.map(a =>
-    `<a href="${esc(a.url)}" target="_blank" rel="sponsored noopener"><b>${esc(a.title)}</b><span>${esc(a.desc)}</span><em>${esc(a.cta || "Xem ngay")} →</em></a>`).join("")}</div>
+    `<a href="${esc(a.url)}" target="_blank" rel="sponsored noopener"><b>${esc(a.title)}</b>${a.desc && !/^https?:\/\//i.test(a.desc) ? `<span>${esc(a.desc)}</span>` : ""}<em>${esc(a.cta || "Xem ngay")} →</em></a>`).join("")}</div>
     <p class="disclose">Một số liên kết là tiếp thị liên kết. ${esc(S.siteName)} có thể nhận hoa hồng khi bạn mua hàng, giá không thay đổi.</p></div>`;
 }
 
@@ -183,6 +192,7 @@ ${prev ? `<link rel="prev" href="${esc(abs(prev))}">` : ""}${next ? `<link rel="
 <meta property="og:url" content="${esc(canonical)}">
 ${imgAbs ? `<meta property="og:image" content="${esc(imgAbs)}"><meta name="twitter:image" content="${esc(imgAbs)}">` : ""}
 <meta name="twitter:card" content="${imgAbs ? "summary_large_image" : "summary"}">
+${A.adsenseClient ? `<meta name="google-adsense-account" content="${esc(A.adsenseClient)}">` : ""}
 ${S.googleSiteVerification ? `<meta name="google-site-verification" content="${esc(S.googleSiteVerification)}">` : ""}
 <meta name="theme-color" content="#1F6B5C">
 <link rel="icon" href="${L("favicon.svg")}" type="image/svg+xml">
@@ -376,11 +386,10 @@ for (const s of STORIES) {
         <h2>${esc(G.title || "Mở khóa để đọc tiếp")}</h2>
         <p>${esc(G.message || "")}</p>
         <div class="gate-opts">
-          <button class="gate-opt" type="button" data-act="video"><b>Xem video quảng cáo</b><span>${gateCfg.videoSeconds} giây, rồi đọc tiếp</span></button>
+          ${gateCfg.videos.length ? `<button class="gate-opt" type="button" data-act="video"><b>Xem video quảng cáo</b><span>${gateCfg.videoSeconds} giây, rồi đọc tiếp</span></button>` : ""}
           ${aff ? `<a class="gate-opt" data-act="aff" href="${esc(aff.url)}" target="_blank" rel="sponsored noopener"><b>${esc(aff.cta || "Ghé nhà tài trợ")}</b><span>${esc(aff.title)}</span></a>` : ""}
         </div>
         <div class="gate-status" id="gateStatus" aria-live="polite"></div>
-        ${adSlot("slotGate", "ad-inline", "Quảng cáo trong cổng mở khóa")}
         <p class="gate-note">Mở khóa có hiệu lực ${gateCfg.unlockHours} giờ trên thiết bị này.</p>
       </div>
     </div>
