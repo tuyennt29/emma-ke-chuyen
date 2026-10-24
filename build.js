@@ -414,8 +414,8 @@ for (const s of STORIES) {
   </article>
   <div class="after-ad">${adSlot("slotEndChapter", "ad-banner", "728×90")}</div>
   <section>
-    <h2 class="section-title">Có thể bạn thích</h2>
-    <div class="grid">${STORIES.filter(x => x.slug !== s.slug).sort((a, b) => (b.genre.slug === s.genre.slug) - (a.genre.slug === s.genre.slug)).slice(0, 4).map(x => card(x, L)).join("")}</div>
+    ${(() => { const rel = STORIES.filter(x => x.slug !== s.slug).sort((a, b) => (b.genre.slug === s.genre.slug) - (a.genre.slug === s.genre.slug)).slice(0, 4);
+      return rel.length ? `<h2 class="section-title">Có thể bạn thích</h2><div class="grid">${rel.map(x => card(x, L)).join("")}</div>` : ""; })()}
     <div class="aff-row">${affiliateBox(L)}</div>
   </section>
   ${gated ? `<script type="application/json" id="ekc-gate">${JSON.stringify(gateCfg).replace(/</g, "\\u003c")}</script>` : ""}`;
