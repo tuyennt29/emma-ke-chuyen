@@ -6270,4 +6270,380 @@ chapters:
 
 
       - Hổ thì lấy cái dữ để át vía yếu, rồng thì lấy uy, lấy khí. Mấy hình ấy đều là để bảo vệ người sống. Còn trường hợp của cậu cần thứ dữ hơn nhiều!
+  - title: '21'
+    body: >-
+      Người già vẫn thường bảo, trẻ con chết yểu oán khí mạnh lắm. Nhất là những
+      đứa chưa kịp chào đời, không có ngày giỗ, cũng chẳng có người thờ cúng, lại
+      bị thầy tà đem đi trấn yểm, làm bùa ngải. Hồi nhỏ tôi nghe những chuyện ấy
+      chỉ thấy rờn rợn rồi cũng quên đi. Nhưng đến đêm Nam xăm quỷ linh nhi, tôi
+      mới hiểu có những chuyện người già kể lại không phải chỉ để dọa trẻ con.
+
+
+      Nam nghe vậy cũng không hỏi thêm nữa, chỉ ngồi im chờ ông Cẩn bắt đầu xăm.
+      Ông Cẩn bắt đầu mở chiếc hộp gỗ, bên trong có một lọ mực nhỏ màu đen, vài
+      cây kim mới, một cuộn chỉ, bông gạc và một mảnh giấy đã gấp làm tư. Ông mở
+      mảnh giấy ra, trên đó là một hình vẽ.
+
+
+      Trước khi rót mực, ông Cẩn lấy trong túi vải ra một gói giấy nhỏ mang về từ
+      chợ Âm Phủ. Bên trong là thứ bột màu xám, mịn như tro. Ông đổ một ít vào lọ
+      mực rồi dùng đầu kim khuấy đều. Tôi ngửi thấy một mùi tanh ngai ngái bốc
+      lên, không giống bất kỳ loại mực xăm nào từng thấy.
+
+
+      - Thứ bác vừa cho vào là gì thế?
+
+
+      - Thứ để gọi nó tới.
+
+
+      - Gọi con quỷ linh nhi ấy ạ?
+
+
+      Ông Cẩn đậy gói giấy lại:
+
+
+      - Hình chỉ là cái vỏ. Không có thứ này, xăm xong cũng chỉ là một hình vẽ
+      bình thường.
+
+
+      Tôi nhìn vài giây mới nhận ra đó là một đứa trẻ nhưng nhìn kỹ hơn tôi lại
+      thấy toàn thân nó khác hẳn một đứa trẻ bình thường. Đầu nó hơi to so với
+      thân, hai mắt mở trừng trừng, con ngươi đen kịt, gần như không thấy lòng
+      trắng. Miệng nó hé ra, bên trong lộ mấy chiếc răng nhỏ nhọn hoắt. Trên đầu
+      là một túm tóc được buộc thành chỏm. Nó không mặc quần áo, chỉ có một sợi
+      chỉ đỏ quấn quanh cổ, thắt rất chặt.
+
+
+      Tôi nhìn thêm vài giây rồi hỏi:
+
+
+      - Đây là trẻ con à bác?
+
+
+      Ông Cẩn không nhìn tôi, chỉ đáp:
+
+
+      - Không phải trẻ con.
+
+
+      Tôi quay sang nhìn ông.
+
+
+      - Thế là cái gì?
+
+
+      Ông Cẩn lấy ngón tay chỉ vào hình vẽ.
+
+
+      - Quỷ linh nhi, đừng nghĩ nó là trẻ con mà coi thường, nó được việc hơn các
+      cậu tưởng đấy!
+
+
+      Tôi nhìn hình vẽ mà thấy không thoải mái, cái đáng sợ nhất không phải khuôn
+      mặt nó dữ đến mức nào mà là nó có khuôn mặt của một đứa trẻ. Tôi từng nghe
+      người ta kể về quỷ linh nhi. Đó là những đứa trẻ chưa kịp chào đời đã chết,
+      có đứa còn chưa kịp ra khỏi bụng mẹ đã bị người ta đem đi làm bùa, làm ngải
+      rồi trấn yểm. Người ta bảo những đứa trẻ như thế oán khí rất nặng, vì chết
+      khi còn chưa biết gì, cũng chẳng có cơ hội được sống như một người bình
+      thường. Trước đây tôi nghe thì chỉ nghĩ đó là chuyện người ta kể cho nhau
+      nghe. Nhưng lúc này nhìn hình vẽ trước mặt, tôi lại thấy lạnh cả người. Một
+      đứa trẻ còn chưa kịp sống mà đã bị người ta đem ra làm những chuyện như vậy,
+      nghĩ thế nào tôi cũng thấy quá độc ác.
+
+
+      Nam cũng nhìn hình vẽ một lúc, có lẽ cũng không ngờ thứ bác Cẩn định xăm cho
+      mình lại là một hình như vậy. Nó ngẩng lên hỏi:
+
+
+      - Bác định xăm con này lên người cháu?
+
+
+      - Ừ.
+
+
+      Nam nhìn hình vẽ thêm một lúc. Nó không hỏi nữa, chỉ đưa tay sờ lên cánh tay
+      mình rồi cười khẽ:
+
+
+      - Nhìn cũng ghê thật.
+
+
+      Tôi liếc nó.
+
+
+      - Giờ mới thấy ghê à? Nãy còn đòi xăm cho bằng được.
+
+
+      - Thì tao đã quyết rồi.
+
+
+      Nó nói xong lại nhìn hình vẽ rồi hỏi trêu ông Cẩn:
+
+
+      - Xăm cái này có đau lắm không bác?
+
+
+      Ông Cẩn đang lấy mấy thứ đồ trên bàn, nghe vậy thì đáp:
+
+
+      - Đau chứ, kim chọc vào da thì làm gì có chuyện không đau.
+
+
+      Nam bật cười.
+
+
+      - Cháu hỏi để biết đường chuẩn bị tinh thần thôi.
+
+
+      - Chuẩn bị đi, lát nữa có đau cũng đừng nhúc nhích, tôi không tiêm thuốc tê
+      đâu.
+
+
+      Ông Cẩn kéo chiếc ghế lại gần bàn, bảo Nam ngồi xuống. Ông lấy bông lau sạch
+      phần da trên cánh tay nó, rồi dùng một miếng vải sạch lau đi lau lại mấy
+      lần. Mùi cồn thoang thoảng trong căn phòng. Tôi ngồi bên cạnh nhìn mà tự
+      nhiên thấy căng thẳng theo. Nam lúc nãy còn nói chuyện với tôi như chẳng có
+      gì, đến lúc thực sự ngồi trước bàn xăm thì cũng im bặt. Ông Cẩn đặt tờ giấy
+      có hình quỷ linh nhi xuống trước mặt, nhìn lại một lần nữa rồi mới cầm cây
+      kim lên.
+
+
+      - Nhớ kỹ lời tôi dặn, trong lúc xăm nếu thấy chóng mặt, buồn nôn hoặc có gì
+      khác thường thì nói ngay.
+
+
+      Nam gật đầu.
+
+
+      - Vâng.
+
+
+      Ông Cẩn nhìn nó thêm một lúc rồi hỏi:
+
+
+      - Cậu còn muốn làm không? Thứ này xăm rồi là phải nuôi nó cả đời!
+
+
+      Nam không suy nghĩ gì thêm mà trả lời ngay:
+
+
+      - Cháu làm.
+
+
+      Ông Cẩn không nói nữa, đặt đầu máy xăm lên bắp tay phải của Nam. Tiếng máy
+      chạy rè rè vang lên trong căn phòng yên tĩnh. Nam lập tức nhăn mặt, bàn tay
+      còn lại nắm chặt lấy mép ghế.
+
+
+      - Đau không?
+
+
+      Nghe tôi hỏi nó nghiến răng đáp:
+
+
+      - Mày thử đi rồi biết.
+
+
+      Tôi bật cười nhưng chỉ vài giây sau nụ cười cũng tắt đi. Tôi nhìn theo đầu
+      kim đang đi từng nét trên da Nam. Mỗi lần kim chạm xuống, một đường mực đen
+      lại hiện ra. Ban đầu chỉ là vài nét nhỏ nhưng càng xăm lâu, hình đứa trẻ
+      trên tờ giấy càng dần hiện lên trên bắp tay phải của nó. Không hiểu sao tôi
+      cứ có cảm giác căn phòng lạnh đi từng chút một, tôi quay sang nhìn cánh cửa.
+      Nó vẫn đóng nhưng ngay phía sau cánh cửa tôi nghe thấy một tiếng động rất
+      khẽ, giống như bên ngoài đang có thứ gì đó gõ cửa xin phép vào.
+
+
+      Tôi nhìn chằm chằm về phía cánh cửa, lần này tiếng động rõ hơn. Nam cũng
+      nghe thấy, nó quay đầu định nhìn nhưng bác Cẩn quát:
+
+
+      - Ngồi yên.
+
+
+      Nam cắn răng hỏi:
+
+
+      - Bên ngoài có ai hả bác?
+
+
+      - Không có ai đâu.
+
+
+      Ông trả lời nhẹ bẫng rồi tiếp tục xăm. Tiếng máy lại vang lên đều đều, tôi
+      cố không để ý đến tiếng động ngoài cửa nhưng được một lúc thì lại nghe thấy
+      tiếng gõ cửa.
+
+
+      “Cộc... cộc…”
+
+
+      Hai tiếng rất nhẹ, giống như có người đứng ngoài dùng đầu ngón tay gõ vào
+      cửa. Tôi nhìn sang bác Cẩn, ông vẫn cúi đầu tay không hề dừng lại. Tôi định
+      hỏi nhưng chưa kịp mở miệng thì từ phía sau cánh cửa bỗng vang lên một âm
+      thanh rất nhỏ. Ban đầu tôi tưởng là tiếng mèo kêu nhưng nghe kỹ, tôi mới
+      nhận ra đó là tiếng trẻ con khóc. Lúc đầu chỉ là tiếng thút thít ở đâu đó
+      ngoài xa. Sau vài giây tiếng khóc rõ hơn. Một đứa trẻ khóc kiểu bị ai đó làm
+      cho sợ, vừa khóc vừa cố nín nên tiếng cứ đứt quãng.
+
+
+      Tôi ngồi im, không dám thở mạnh. Nam cũng nghe thấy, nó quay mắt nhìn tôi,
+      tôi khẽ hỏi:
+
+
+      - Mày có nghe thấy không?
+
+
+      Nam chưa kịp trả lời thì bác Cẩn lên tiếng:
+
+
+      - Đừng nói chuyện.
+
+
+      Giọng ông vẫn bình thường nhưng thấp hơn lúc nãy. Tiếng khóc ngoài cửa vẫn
+      tiếp tục. Có lúc tiếng khóc nhỏ đến mức tôi tưởng mình nghe nhầm nhưng chỉ
+      một lát sau nó lại vang lên, càng lúc nghe càng rõ. Tôi cúi xuống nhìn nền
+      nhà. Không biết từ lúc nào, trước cửa đã có mấy vệt nước nhỏ. Nước từ ngoài
+      cửa kéo thành từng dấu chân đi dần vào trong, đến tận chân bàn.
+
+
+      Tôi nhìn kỹ hơn mới thấy nó không giống dấu chân người lớn mà nhỏ hơn rất
+      nhiều. Những dấu chân bé xíu đang chậm rãi tiến lại gần chỗ Nam ngồi. Tôi
+      bất giác nín thở.
+
+
+      - Bác Cẩn...
+
+
+      Ông vẫn không ngẩng đầu.
+
+
+      - Tôi bảo cậu đừng nói gì.
+
+
+      Tiếng máy xăm vẫn chạy đều. Kim đi qua da, mực đen dần dần hiện lên từng
+      nét. Phần đầu của hình quỷ linh nhi đã thành hình, hai con mắt đen bắt đầu
+      rõ hơn. Đúng lúc ấy, tiếng khóc ngoài cửa im bặt, căn phòng trở nên yên tĩnh
+      đến mức tôi nghe rõ cả tiếng Nam thở. Tôi tưởng mọi chuyện đã qua nhưng rồi
+      từ ngay phía sau lưng Nam vang lên một tiếng cười rất khẽ.
+
+
+      - Hì… hì…
+
+
+      Tôi lạnh cả người, Nam cũng cứng người lại. Bác Cẩn lập tức giữ chặt vai nó.
+
+
+      - Đừng quay lại.
+
+
+      Nam nuốt nước bọt, lắp bắp không thành câu:
+
+
+      - Bác... có phải nó không?
+
+
+      Bác Cẩn không trả lời, ông chỉ nhìn xuống hình xăm đang dần hiện trên cánh
+      tay Nam, rồi nói rất nhỏ:
+
+
+      - Nó nghe thấy tiếng kim rồi.
+
+
+      Câu nói vừa dứt căn phòng bỗng lạnh hẳn đi. Và ngay lúc đó, ở bên ngoài cánh
+      cửa lại vang lên tiếng trẻ con, lần này không còn là tiếng khóc mà là tiếng
+      ai đó cười rất khẽ.
+
+
+      - Hì hì…
+
+
+      Tôi cúi xuống nhìn những dấu chân ướt dưới nền. Chúng dừng ngay sát phía sau
+      chân Nam, nhỏ đến mức nếu không nhìn kỹ tôi sẽ tưởng mình nhìn nhầm. Tôi
+      không nói gì, bác Cẩn chắc cũng đã nhận ra, vì tay ông khựng lại một thoáng
+      rồi mới tiếp tục đưa kim. Tiếng máy xăm vẫn chạy đều. Đến khi mũi kim đi
+      xuống phần bụng của hình xăm, bên cạnh Nam bỗng vang lên tiếng trẻ con cười
+      khúc khích. Lần này tôi nghe rất rõ, không còn ở phía cửa nữa mà như có một
+      đứa trẻ đang đứng ngay cạnh Nam, lúc thì cười khe khẽ, lúc lại im bặt. Mỗi
+      lần tôi tưởng tiếng cười đã biến mất, nó lại vang lên ngay sát bên tai. Nam
+      căng cứng người, có lẽ nó cũng cảm nhận được điều gì đó, vì một lúc sau nó
+      mới khẽ hỏi:
+
+
+      - Bác... nó đang ở đây à?
+
+
+      Bác Cẩn không trả lời ngay. Ông vẫn giữ chắc cánh tay Nam, tiếp tục đưa kim
+      đi từng nét.
+
+
+      - Đừng quay lại.
+
+
+      Nam ngồi im, tôi cũng không dám động đậy. Đúng lúc ấy, tiếng khóc bỗng im
+      bặt một khoảng yên lặng kéo dài vài giây rồi ngay sát tai tôi vang lên một
+      giọng trẻ con rất nhỏ:
+
+
+      - Đau...
+
+
+      Tôi giật bắn người, có thứ ươn ướt như lưỡi đang liếm nhẹ lên vành tai tôi,
+      tôi hét toáng lên:
+
+
+      - Bác…
+
+
+      Nam nghe vậy cũng quay sang nhìn tôi, mặt nó cũng tái đi. Bác Cẩn nhìn tôi
+      vài giây rồi mới lên tiếng trấn an:
+
+
+      - Không sao đâu. Trẻ con ấy mà, nó chỉ trêu cậu chút thôi.
+
+
+      Tôi nhìn ông, không hiểu sao nghe câu ấy lại càng thấy lạnh người.
+
+
+      - Trẻ con mà cũng làm thế được hả bác?
+
+
+      Ông Cẩn không trả lời, chỉ lấy khăn lau mồ hôi trên trán Nam rồi tiếp tục
+      công việc. Tôi cố ngồi yên nhưng cảm giác ươn ướt bên vành tai vẫn còn
+      nguyên. Tôi đưa tay sờ thử, đầu ngón tay lạnh ngắt, không có nước. Tôi cũng
+      không biết thứ vừa chạm vào mình là cái gì, chỉ biết nó lạnh và nhớp, giống
+      hệt cảm giác vừa bị một cái lưỡi nhỏ liếm qua.
+
+
+      Tiếng máy xăm lại vang lên rè rè. Tôi không dám nhìn sang bên cạnh Nam nữa
+      nhưng càng không nhìn tôi càng cảm nhận rõ nó đang ở đó. Có lúc chiếc ghế
+      Nam đang ngồi khẽ rung lên một cái, giống như có đứa trẻ vừa bám vào chân
+      ghế. Có lúc tôi nghe tiếng chân nhỏ chạy trên nền gạch, chạy vòng quanh
+      chúng tôi rồi dừng lại ngay phía sau lưng. Nam cũng bắt đầu thở mạnh hơn.
+
+
+      - Bác Cẩn...
+
+
+      - Cứ ngồi yên.
+
+
+      Ông nói rất bình tĩnh. Tôi cúi xuống nhìn hình xăm trên cánh tay Nam. Những
+      nét mực đen đang dần hiện lên trên nền da đỏ ửng, từng chút một ghép thành
+      khuôn mặt của một đứa trẻ. Hai con mắt đã hiện rõ, đen sì, cái miệng nhỏ
+      cũng dần thành hình. Lúc đầu tôi chỉ thấy nó ghê nhưng càng nhìn lâu tôi
+      càng thấy khó chịu. Cái mặt ấy giống trẻ con đến mức không hiểu sao tôi cứ
+      có cảm giác mình đang nhìn vào mặt một đứa trẻ thật, chứ không phải một hình
+      vẽ trên da.
+
+
+      Một lúc sau, ngay dưới chân Nam lại vang lên tiếng cười.
+
+
+      - Hì...
+
+
+      Lần này tôi không hét nữa, tôi chỉ ngồi im, lưng lạnh toát, trong đầu lúc ấy
+      chỉ có đúng một suy nghĩ: Nếu đây thật sự là một đứa trẻ đã chết từ khi chưa
+      kịp chào đời, thì nó rốt cuộc đã phải chịu những gì mới thành ra thế này?
 ---
